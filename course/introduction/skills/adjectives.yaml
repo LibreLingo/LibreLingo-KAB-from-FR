@@ -3,206 +3,201 @@ Skill:
   Id: 15
 
 New words:
-  - Word: ratón
-    Translation: mouse
+  - Word: aɣerda
+    Translation: souris
     Images:
       - mouse1
       - mouse2
       - mouse3
 
-  - Word: elefante
-    Translation: elephant
+  - Word: lfil
+    Translation: éléphant
     Images:
       - elephant1
       - elephant2
       - elephant3
 
-  - Word: parque
-    Translation: park
+  - Word: tabḥirt
+    Translation: jardin
     Images:
       - park1
       - park2
       - park3
 
-  - Word: el ratón
-    Translation: the mouse
+  - Word: aɣerda
+    Translation: la souris
     Images:
       - mouse1
       - mouse2
       - mouse3
 
-  - Word:  el elefante
-    Translation: the elephant
+  - Word:  lfil
+    Translation: l'éléphant
     Images:
       - elephant1
       - elephant2
       - elephant3
 
-  - Word: el parque
-    Translation: the park
+  - Word: tabḥirt
+    Translation: le jardin
     Images:
       - park1
       - park2
       - park3
 
 Phrases:
-  - Phrase: Cecilia es alta
-    Translation: Cecilia is tall
+  - Phrase: Cecilia ɣezzifet
+    Translation: Cecilia est longue
 
-  - Phrase: Max es alto
-    Translation: Max is tall
+  - Phrase: Idir ɣezzif
+    Translation: Idir est long
 
-  - Phrase: Yo soy viejo
-    Translation: I am old
+  - Phrase: Nekk meqreɣ
+    Translation: Je suis vieux
 
-  - Phrase: Ella es vieja
+  - Phrase: Nettat maqret
     Alternative versions:
-      - Es vieja
-      - Es viejo
-    Translation: She is old
+      - d tamɣart
+      - d amɣar
+    Translation: Elle est vieille
 
-  - Phrase: Él es viejo
+  - Phrase: Netta meqqer
     Alternative versions:
-      - Es vieja
-      - Es viejo
-    Translation: He is old
+      - d tamɣart
+      - d amɣar
+    Translation: Il est vieux
 
-  - Phrase: Yo soy grande
+  - Phrase: Nekk zureɣ
     Alternative versions:
-      - Soy grande
-    Translation: I am big
+      - zureɣ
+    Translation: Je suis gros
     Alternative translations:
-      - I'm big
-
-  - Phrase: Ella es grande
+      
+  - Phrase: Nettat zuret
     Alternative versions:
-      - Es grande
-    Translation: She's big
+      - d tazurant
+    Translation: Elle est grosse
     Alternative translations:
-      - She is big
+      
 
-  - Phrase: Nosotros somos grandes
+  - Phrase: Nekkni zurit
     Alternative versions:
-      - Somos grandes
-    Translation: We're big
+      - d izuranen
+    Translation: Nous sommes gros
     Alternative translations:
-      - We are big
+      - Nous sommes gros
 
-  - Phrase: Ellas son grandes
+  - Phrase: Nutenti zurit
     Alternative versions:
-      - Son grandes
-    Translation: They are big
+      - d tizuranin
+    Translation: Elles sont grosses
 
-  - Phrase: Ellos son pequeños
+  - Phrase: Nutni meẓẓiyit
     Alternative versions:
-      - Son pequeños
-    Translation: They're small
+      - Nutni mectuḥit
+    Translation: Ils sont petits
     Alternative translations:
-      - They are small
+      - Ils sont petits
 
-  - Phrase: Los gatos son pequeños
-    Translation: The cats are small
+  - Phrase: Imcac meẓẓiyit
+    Translation: Les chats sont petits
 
-  - Phrase: Los viejos comen carne
-    Translation: The old ones eat meat
+  - Phrase: Imeqranen tetten aksum
+    Translation: Les vieux mangent de la viande
     Alternative translations:
-      - The old eat meat
+      - Les vieux mangent la viande
 
 
-  - Phrase: Max no es bajo
-    Translation: Max is not short
+  - Phrase: Idir ur wezzil ara
+    Translation: Idir n'est pas court
     Alternative translations:
-      - Max isn't short
+      - Idir n'est pas court
 
 
-  - Phrase: El perro es pequeño y viejo
-    Translation: The dog is small and old
+  - Phrase: Aqjun meẓẓi u meqqer
+    Translation: Le chien est petit et vieux
     Alternative translations:
-      - The dog's small and old
+      - Le chien est petit et vieux
 
 
-  - Phrase: El parque es pequeño
-    Translation: The park is small
+  - Phrase: Tibḥirt mezziyet 
+    Translation: Le jardin est petit
     Alternative translations:
-      - The park's small
+      - Le jardin est petit
 
-  - Phrase: El parque es grande
-    Translation: The park is big
+  - Phrase: Tibḥirt meqret
+    Translation: Le jardin est grand
     Alternative translations:
-      - The park's big
+      - Le jardin est grand
 
 
-  - Phrase: El ratón es pequeño
-    Translation: The mouse is small
+  - Phrase: Aɣerda meẓẓi
+    Translation: La souris est petite
     Alternative translations:
-      - The mouse's small
+      - Le rat est petit
 
-  - Phrase: Los elefantes son grandes, los ratones son pequeños
-    Translation: The elephants are big, the mice are small
+  - Phrase: Lfilat meqrit, iɣerdayen meẓẓiyit 
+    Translation: Les éléphants sont grands, les souris sont petites
     Alternative translations:
-      - Elephants are big, mice are small
+      - Les éléphants sont grands, les souris sont petites
 
-  - Phrase: Los grandes ratones trabajan
-    Translation: The big mice work
+  - Phrase: Iɣerdayen imeqranen qeddcen
+    Translation: Les grandes souris travaillent
 
 Mini-dictionary:
-  English:
-    - tall:
-      - alto
-      - alta
-      - altos
-      - altas
-    - old:
-      - viejo
-      - vieja
-      - viejos
-      - viejas
-    - she's:
-      - ella es
-      - ella está
-    - we're:
-      - somos
-      - estamos
-    - they're:
-      - son
-      - ellos son
-      - ellas son
-    - ones: unos
-    - meat: carne
-    - not: "no"
-    - short:
-      - bajo
-      - baja
-      - corto
-      - corta
-    - elephants: elefantes
-    - mice: ratones
-    - work:
-      - trabajan
-      - trabajo
+  Français:
+    - long:
+      - ɣezzif
+      - ɣezzifet
+      - ɣezzifit
+      - ɣezzifit
+    - vieux:
+      - meqqer
+      - meqret
+      - meqrit  
+      - meqrit
+    - elle:
+      - nettat    
+    - nous:
+      - nekkni
+      - nekenti
+    - ils:
+      - nutni
+    - viande: aksum
+    - court:
+      - wezzil
+      - wezzilet
+      - mectuḥ
+      - mectuḥet
+    - éléphants: lfilat
+    - souris: iɣerdayen
+    - travaille:
+      - qeddceɣ
+      - taeddec
+      - iqeddec
 
-  Spanish:
-    - alta: tall
-    - alto: tall
-    - viejo: old
-    - vieja: old
-    - pequeños: small
-    - viejos:
-      - old
-      - old ones
-    - comen:
-      - eat
-      - they eat
-      - you eat
-    - carne: meat
-    - "no": "no"
-    - bajo:
-      - short
-      - low
-      - below
-    - elefantes: elephants
-    - ratones: mice
-    - trabajan:
-      - they work
-      - you work
+  Kabyle:
+    - ɣezzifet: longue
+    - ɣezzif: long
+    - meqqer: vieux
+    - meqret: vieille
+    - meẓẓi: petit
+    - amɣar:
+      - vieux
+    - tamɣart:
+      - vielle
+    - imɣaren:
+      - vieux
+    - timɣarin:
+      - vielles
+    - tetten:
+      - ils mangent      
+    - aksum: viande
+    - "uhu": "non"
+    - wezzil:
+      - court
+    - lfilat: éléphants
+    - iɣerdayen: souris
+    - qeddcen:
+      - ils travaillent      
 
