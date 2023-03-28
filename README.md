@@ -1,3 +1,4 @@
-# LibreLingo-ES-from-EN
+# LibreLingo-KAB-from-FR
 
-Spanish course for English speakers
+Kabyle course for French speakers.
+
