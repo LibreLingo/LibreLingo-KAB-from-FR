@@ -5,113 +5,92 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: ¡Buenos días!
-    Translation: Good morning!
+  - Phrase: Azul!
+    Translation: Bonjour!
+    
+  - Phrase: Azul, nekk d Cecilia.
+    Translation: Bonjour, je suis Cecilia.
+
+  - Phrase: Isem-iw Ali
+    Translation: Mon nom est Ali
     Alternative translations:
-      - Good day!
+      - On m'appelle Ali
+      
+  - Phrase: Amek tettiliḍ?
+    Translation: Comment vas-tu?
 
-  - Phrase: Buenos días, yo soy Cecilia.
-    Alternative versions:
-      - Buenos días, soy Cecilia.
-    Translation: Good morning, I am Cecilia.
+  - Phrase: Dacu akka?
+    Translation: Quoi de neuf?
 
-  - Phrase: Yo me llamo José
-    Alternative versions:
-      - Me llamo José
-    Translation: My name is José
+  - Phrase: Ferḥeɣ imi k-sneɣ
+    Translation: Heureux de te connaitre
     Alternative translations:
-      - I am called José
-      - I'm called José
+      - Heureuse de te connaitre
 
-  - Phrase: ¿Qué tal?
-    Translation: How are you?
+  - Phrase: Ar tufat!
+    Translation: Au revoir!
+    
+  - Phrase: Isem-ik?
+    Translation: Quel est ton nom?
+    
+  - Phrase: Azul!
+    Translation: Bon soir!
+    
 
-  - Phrase: ¿Qué pasa?
-    Translation: What's up?
-
-  - Phrase: Mucho gusto
-    Translation: Nice to meet you
-    Alternative translations:
-      - Nice meeting you
-
-  - Phrase: ¡Hasta luego!
-    Translation: See you later!
-    Alternative translations:
-      - See you soon!
-
-  - Phrase: ¿Cómo te llamas?
-    Translation: What's your name?
-    Alternative translations:
-      - What is your name?
-
-  - Phrase: ¡Buenas tardes!
-    Translation: Good afternoon!
-    Alternative translations:
-      - Good evening!
-
-  - Phrase: ¡Buenas noches, José!
-    Translation: Good night, José!
+  - Phrase: Iḍ ameggaz, Ali!
+    Translation: Bonne nuit, Ali!
 
 Mini-dictionary:
-  English:
-    - morning:
-      - mañana
-    - my:
-      - mi
-    - name: nombre
-    - what's:
-      - qué
-      - que es
-    - up:
-      - arriba
-      - para arriba
-      - hacia arriba
-      - hasta
-    - nice:
-      - bonito
-      - bonita
-      - agradable
-      - bien
-      - bueno
-    - meet:
-      - conocer
-      - encontrarse
-    - see:
-      - ver
-      - ve
-      - veo
-      - ven
-    - later:
-      - más tarde
-      - después
-      - luego
-    - afternoon: tarde
-    - night: noche
+  Fraçais:
+    - matin:
+      - tanzagt
+      - ṣbaḥ
+    - mon:
+      - inu
+    - nom: isem
+    - quel:
+      - dacu
+      - acu
+    - bon:
+      - ilha
+      - telha
+      - igerrez
+      - tgerrez
+    - rencontrer:
+      - issin
+      - mlil
+    - voir:
+      - ẓer
+      - ẓriɣ
+      - yeẓra
+      - teẓra
+      - neẓra
+    - plus-tard:
+      - ticki
+      - umbeɛd
+      - mbeɛd
+    - après midi: tameddit
+    - nuit: iḍ
 
-  Spanish:
-    - buenos: good
-    - días: days
-    - llamo: I call
-    - qué: what
-    - tal: such
-    - pasa:
-      - happens
-      - passes
-    - gusto:
-      - taste
-      - liking
-      - pleasure
-    - hasta: until
-    - luego:
-      - soon
-      - then
-      - later
-    - cómo:
-      - how
-      - Sorry? What?
-    - te: you
-    - llamas: you call
-    - buenas: good
-    - tardes: afternoons
-    - noches: nights
+  Kabyle:
+    - lhan: bons
+    - ussan: jours
+    - ssawaleɣ: j'appelle
+    - acu: quoi
+    - ẓid:
+      - bon
+      - goûteux
+      - sucré
+    - ar: jusqu'à
+    - umbeɛd:
+      - après
+      - plus-tard
+    - amek:
+      - comment
+      - pardon? quoi?
+    - kečč: tu
+    - siwel: tu appelles appelle
+    - ameggaz: bon
+    - tameddit: après-midi
+    - iḍ: nuit
 
