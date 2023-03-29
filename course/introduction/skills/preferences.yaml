@@ -3,36 +3,36 @@ Skill:
   Id: 13
 
 New words:
-  - Word: café
-    Translation: coffee
+  - Word: lqahwa
+    Translation: café
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: vino
-    Translation: wine
+  - Word: ccṛab
+    Translation: vin
     Images:
       - wine1
       - wine2
       - wine3
 
-  - Word: cerveza
-    Translation: beer
+  - Word: tabyirt
+    Translation: bière
     Images:
       - beer1
       - beer2
       - beer3
 
-  - Word: un café
-    Translation: a coffee
+  - Word: yiwet lqahwa
+    Translation: un café
     Images:
       - coffee1
       - coffee2
       - coffee3
 
-  - Word: el vino
-    Translation: the wine
+  - Word: ccṛab
+    Translation: le vin
     Images:
       - wine1
       - wine2
@@ -41,64 +41,68 @@ New words:
 
 
 Phrases:
-  - Phrase: ¿Te gusta el café?
+  - Phrase: Tterreḍ lqahwa?
     Alternative versions:
-      - ¿A ti te gusta el café?
-    Translation: Do you like coffee?
+      -  Tḥemmleḍ lqahwa?
+    Translation: Aimes-tu le café?
 
-  - Phrase: Me gusta la pasta
+  - Phrase: Terreɣ irektiyen
     Alternative versions:
-      - A mí me gusta la pasta
-    Translation: I like pasta
+      - Ḥemmleɣ irektiyen
+    Translation: J'aime les pâtes 
 
-  - Phrase: Me gusta la cerveza
+  - Phrase: Terreɣ tabyirt
     Alternative versions:
-      - A mí me gusta la cerveza 
-    Translation: I like beer
+      - Ḥemmleɣ tabyirt 
+    Translation: J'aime la bière
 
-  - Phrase: No me gusta el vino
+  - Phrase: Ur terreɣ ara ccṛab
     Alternative versions:
-      - A mí no me gusta el vino
-    Translation: I don't like wine
+      - Ur ḥemmleɣ ara ccṛab
+    Translation: Je n'aime pas le vin
 
-  - Phrase: Él no come carne
+  - Phrase: Ur itett ara aksum
     Alternative versions:
-      - No come carne
-    Translation: He doesn't eat meat
+      - Ur itett ara aksum
+    Translation: Il ne mange pas la viande
 
-  - Phrase: Yo bebo vino
+  - Phrase: Nekk tesseɣ ccṛab
     Alternative versions:
-      - Bebo vino
-    Translation: I drink wine
+      - Tesseɣ ccṛab
+    Translation: Je bois du vin
 
-  - Phrase: Cecilia no come pasta
-    Translation: Cecilia doesn't eat pasta
+  - Phrase: Cecilia ur tett ara irektiyen
+    Translation: Cecilia ne mange pas les pâtes
 
-  - Phrase: ¡Una cerveza, por favor!
-    Translation: A beer please!
+  - Phrase: Yiwet n tebyirt, ttxil-k!
+    Translation: Une bière s'il vous plaît!
 
-  - Phrase: ¿Te gusta el vino?
-    Translation: Do you like wine?
+  - Phrase: Tterreḍ ccṛab?
+    Alternative versions:
+      - Tḥemmleḍ ccṛab?
+    Translation: Aimes-tu le vin?
 
-  - Phrase: ¿No te gusta el pan?
-    Translation: Don't you like bread?
+  - Phrase: Ur tterreḍ ara aɣrum?
+    Alternative versions:
+      - Ur tḥemmleḍ ara aɣrum?
+    Translation: Tu n'aimes pas le pain?
     Alternative translations:
-      - You don't like bread?
+      - N'aimes tu pas le pain?
 
 
 Mini-dictionary:
-  English:
-    - do:
-      - hace
-      - hago
-      - haces
-      - hacemos
-    - don't: "no"
-    - doesn't: "no"
+  Français:
+    - faire:
+      - eg
+      - teggeɣ
+      - itegg
+      - ttegg
+      - ntegg
+    
 
-  Spanish:
-    - una:
-      - a
-      - one
+  Kabyle:
+    - yiwet:
+      - une
+      
 
 
