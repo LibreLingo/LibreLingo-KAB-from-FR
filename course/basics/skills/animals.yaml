@@ -121,8 +121,7 @@ Mini-dictionary:
 
 
   Fraçais:
-    - la:
-        - d        
+    - la: d        
     - c'est: d
     - un:
       - yiwen
@@ -133,6 +132,5 @@ Mini-dictionary:
     - ton:
       - inek
       - inem
-    -repas:
-      - tanalt
+    - repas: tanalt
     - pain: aɣrum
