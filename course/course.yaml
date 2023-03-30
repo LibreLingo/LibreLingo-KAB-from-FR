@@ -36,8 +36,8 @@ Course:
 
 Modules:
   - basics/
-  - introduction/
-  - activities/
+  # - introduction/
+  # - activities/
 
 Settings:
   Audio:
