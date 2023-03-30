@@ -116,12 +116,15 @@ Mini-dictionary:
     - yiwen: un (masc.)
     - Max: Max (name)
     - d: et
+    - d: 
+      - est
+      - c'est
     - ilha: bon
     - imekli: déjeuner
 
   French:
-    - la: d        
     - c'est: d
+    - est: d
     - un:
       - yiwen
       - yiwet
