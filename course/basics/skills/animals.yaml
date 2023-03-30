@@ -121,6 +121,7 @@ Mini-dictionary:
       - c'est
     - ilha: bon
     - imekli: déjeuner
+    - uɛudiw: cheval
 
   French:
     - c'est: d
@@ -136,3 +137,7 @@ Mini-dictionary:
       - inem
     - repas: tanalt
     - pain: aɣrum
+    - cheval: 
+      - agmar
+      - aɛudiw
+      - uɛudiw
