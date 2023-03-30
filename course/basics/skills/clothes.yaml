@@ -1,5 +1,5 @@
 Skill:
-  Name: Clothes
+  Name: Habits
   Id: 7
   Thumbnails:
     - dress2
@@ -7,194 +7,187 @@ Skill:
     - hat2
   
 New words:
-  - Word: vestido
-    Translation: dress
+  - Word: taqenduṛt
+    Translation: robe
     Images:
       - dress1
       - dress2
       - dress3
 
-  - Word: camiseta
+  - Word: atriku
     Translation: t-shirt
     Images:
       - t-shirt1
       - t-shirt2
       - t-shirt3
 
-  - Word: gorro
-    Translation: hat
+  - Word: tamḍelliwt
+    Translation: chapeau
     Images:
       - hat1
       - hat2
       - hat3
 
-  - Word: zapatos
-    Translation: shoes
+  - Word: isebbaḍen
+    Translation: chaussures
     Images:
       - shoes1
       - shoes2
       - shoes3
 
-  - Word: camisa
-    Translation: shirt
+  - Word: taseddrit
+    Translation: chemise
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: falda
-    Translation: skirt
+  - Word: tameḥremt
+    Translation: jupe
     Images:
       - skirt1
       - skirt2
       - skirt3
 
-  - Word: calcetines
-    Translation: socks
+  - Word: iqaciṛen
+    Translation: chaussettes
     Images:
       - socks1
       - socks2
       - socks3
 
-  - Word: el vestido
-    Translation: the dress
+  - Word: taqenduṛt
+    Translation: la robe
     Images:
       - dress1
       - dress2
       - dress3
 
-  - Word: la camiseta
-    Translation: the t-shirt
+  - Word: atriku
+    Translation: le t-shirt
     Images:
       - t-shirt1
       - t-shirt2
       - t-shirt3
 
-  - Word: un gorro
-    Translation: a hat
+  - Word: tamḍelliwt
+    Translation: un chapeau 
     Images:
       - hat1
       - hat2
       - hat3
 
-  - Word: los zapatos
-    Translation: the shoes
+  - Word: isebbaḍen
+    Translation: les chaussures
     Images:
       - shoes1
       - shoes2
       - shoes3
 
-  - Word: una camisa
-    Translation: a shirt
+  - Word: taseddrit
+    Translation: une chemise
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: la falda
-    Translation: the skirt
+  - Word: timeḥremt
+    Translation: la jupe
     Images:
       - skirt1
       - skirt2
       - skirt3
 
-  - Word: los calcetines
-    Translation: the socks
+  - Word: iqaciṛen
+    Translation: les chaussettes
     Images:
       - socks1
       - socks2
       - socks3
 
 Phrases:
-  - Phrase: ¡Me gusta!
-    Translation: I like it!
+  - Phrase: yeɛjeb-iyi!
+    Translation: Je l'aime!
 
-  - Phrase: ¿Cuánto cuesta?
-    Translation: How much is it?
+  - Phrase: Acḥal azal-is?
+    Translation: Combien ça coûte?
 
-  - Phrase: Gracias
-    Translation: Thank you
-    Also accepted:
-      - Thanks
+  - Phrase: Tanemmirt
+    Translation: Merci
+    
+  - Phrase: Taqenduṛt tecbeḥ
+    Translation: La robe est belle
 
-  - Phrase: El vestido es bonito
-    Translation: The dress is beautiful
+  - Phrase: Meqrit isebbaḍen 
+    Translation: Les souliers sont grands
 
-  - Phrase: Los zapatos son grandes
-    Translation: The shoes are big
+  - Phrase: Atriku meqqer
+    Translation: Le t-shirt est grand
 
-  - Phrase: La camiseta es grande
-    Translation: The t-shirt is big
-
-  - Phrase: La falda es pequeña
-    Translation: The skirt is small
+  - Phrase: Timeḥremt meẓẓiyet
+    Translation: La jupe est petite
 
 
 Mini-dictionary:
-  English:
-    - beautiful:
-      - bonito
-      - bonita
-      - hermoso
-      - hermosa
-    - are: son
-    - big:
-      - grande
-      - grandes
-    - small:
-      - pequeña
-      - pequeño
-    - have:
-      - tiene
-      - tengo
-      - tienes
-    - good:
-      - buen
-      - bueno
-      - buena
-    - trip: viaje
-    - let's: vamos
-    - go:
-      - ir
-      - voy
-      - vamos
-    - to: a
-    - or: o
-    - am: soy
-    - you:
-      - tú
-      - usted
-    - she: ella
+  Français:
+    - belle:
+      - tecbeḥ
+      - yecbeḥ
+      - tgerrez
+      - igerrez
+    - grand:
+      - meqqer
+      - meqrit
+    - petit:
+      - meẓẓi
+      - meẓẓiyet
+    - a:
+      - sɛu
+      - sɛiɣ
+      - tesɛiḍ
+    - bon:
+      - ilha
+      - igerrez
+      - telha
+      - tgerrez
+    - voyage: inig
+    - allons-y: iyyaw
+    - ruḥ:
+      - ddu
+      - ad ruḥeɣ
+      - ad nruḥ
+    - à: ar
+    - ou: neɣ
+    - tu:
+      - kečč
+    - elle: nettat
     - pizza: pizza
-    - he: él
-    - drink:
-      - bebo
-      - bebemos
-      - bebida
+    - il: netta
+    - boire
+      - ad sweɣ
+      - ad nsew
+      - ad teswem
     - Maria: Maria (name)
 
-  Spanish:
-    - bonito: beautiful
-    - el: the
-    - los: the
-    - son: are
-    - grandes: big
-    - grande: big
-    - pequeña: small
-    - viaje: trip
-    - vamos:
-      - Let's
-      - we go
-    - a: to
-    - o: or
-    - soy: I am
-    - tú: you
-    - eres: you are
-    - pequeño: small
-    - comes: you eat
+  Kabyle:
+    - tecbeḥ: belle
+    - netta: il
+    - meqrit: grands
+    - meqqer: grand
+    - meẓẓiyet: petite
+    - inig: voyage
+    - iyyaw:
+      - allons-y
+      - on y va
+    - ar: à
+    - neɣ: ou
+    - kečč: tu
+    - kem: tu 
+    - meẓẓi: petit
+    - tetetteḍ: tu manges
     - pizza: pizza
-    - ella: she
-    - él: he
-    - bebo: I drink
-    - bebes: you drink
+    - nettat: elle
+    - netta: il
+    - ad sweɣ: je bois
+    - ad tesweḍ: tu bois
     - Maria: Maria (name)
