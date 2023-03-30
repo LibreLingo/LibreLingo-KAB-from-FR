@@ -1,5 +1,5 @@
 Skill:
-  Name: Animals
+  Name: Animaux
   Id: 2
   Thumbnails:
     - dog1
@@ -7,135 +7,132 @@ Skill:
     - cat3
   
 New words:
-  - Word: perro
+  - Word: aqjun
     Synonyms:
-      - can
-    Translation: dog
-    Also accepted:
-      - hound
+      - aydi
+    Translation: chien
     Images:
       - dog1
       - dog2
       - dog3
 
-  - Word: gato
-    Translation: cat
+  - Word: amcic
+    Translation: chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: oso
-    Translation: bear
+  - Word: lmerd
+    Translation: ours
     Images:
       - bear1
       - bear2
       - bear1
 
-  - Word: león
+  - Word: izem
     Translation: lion
     Images:
       - lion1
       - lion2
       - lion3
 
-  - Word: pato
-    Translation: duck
+  - Word: abṛik
+    Translation: canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: caballo
-    Translation: horse
+  - Word: agmar
+    Synonyms:
+      - aɛudiw
+    Translation: cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: el gato
-    Translation: the cat
+  - Word: amcic
+    Translation: le chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: un oso
-    Translation: a bear
+  - Word: lmerd
+    Translation: un ours
     Images:
       - bear1
       - bear2
       - bear1
 
-  - Word: un león
-    Translation: a lion
+  - Word: izem
+    Translation: un lion
     Images:
       - lion1
       - lion2
       - lion3
 
-  - Word: el pato
-    Translation: the duck
+  - Word: abṛik
+    Translation: le canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: un caballo
-    Translation: a horse
+  - Word: agmar
+    Synonyms:
+      - aɛudiw
+    Translation: un cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: el perro
+  - Word: aqjun
     Synonyms:
-      - el can
-    Translation: the dog
-    Also accepted:
-      - the hound
+      - aydi
+    Translation: le chien
     Images:
       - dog1
       - dog2
       - dog3
 
 Phrases:
-  - Phrase: Es un caballo
-    Translation: It's a horse
+  - Phrase: D agmar
+    Translation: C'est un cheval
 
-  - Phrase: Max es un perro
+  - Phrase: Max d aqjun
     Alternative versions:
-      - Max es un can
-    Translation: Max is a dog
+      - Max d aydi
+    Translation: Max est un chien
 
-  - Phrase: Un pato y un caballo
-    Translation: A duck and a horse
+  - Phrase: Abṛik d uɛudiw 
+    Translation: Un canard et un cheval
 
 Mini-dictionary:
-  Spanish:
-    - un: a/an (masc.)
-    - es: is
+  Kabyle:
+    - yiwen: un (masc.)
     - Max: Max (name)
-    - y: and
-    - buen: good
-    - provecho: profit
+    - d: et
+    - ilha: bon
+    - imekli: déjeuner
 
 
-  English:
-    - the:
-        - la
-        - el
-    - it's: es
-    - a:
-      - un
-      - una
+  Fraçais:
+    - la:
+        - d        
+    - c'est: d
+    - un:
+      - yiwen
+      - yiwet
     - Max: Max (name)
-    - is: es
-    - and: y
-    - enjoy: disfruta
-    - your:
-      - tu
-      - su
-    - meal:
-      - comida
-    - bread: pan
+    - et: d
+    - santé: tazmert
+    - ton:
+      - inek
+      - inem
+    -repas:
+      - tanalt
+    - pain: aɣrum
