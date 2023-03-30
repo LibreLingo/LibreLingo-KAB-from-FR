@@ -1,6 +1,7 @@
-# Welcome to LibreLingo
+# Bienvenue sur LibreLingo
 
-Welcome to LibreLingo, the free and open language learning platform!
+Bienvenue sur LibreLingo, la plateforme gratuite pour l'apprentissage des langues!
 
-In this introductory skill you'll learn the names of common animals in Spanish,
-as well as a couple simple phrases.
+Dans cette introduction vous apprendrez les noms d'animaux communs en Kabyle, 
+ainsi que quelques phrases simples.
+
