@@ -78,8 +78,8 @@ New words:
       - hat2
       - hat3
 
-  - Word: asebbaḍ
-    Translation: la chaussure
+  - Word: isebbaḍen
+    Translation: les chaussures
     Images:
       - shoes1
       - shoes2
@@ -131,53 +131,41 @@ Phrases:
 
 Mini-dictionary:
   French:
+    - je: 
+      - nekk
+      - nekkini
+    -l'aime: 
+      - riɣ-t
+      - riɣ-tt
+      - ḥemmleɣ-t
+      - ḥemmleɣ-tt
+    - combien: acḥal
+    - ça:
+      - wagi
+      - tagi
+      - wigi
+      - tigi
+    - coûte: 
+      - azal
+      - azal-is
+    - la: article (singulier)
+    - robe: taqenduṛt
+    - est: être
     - belle:
       - tecbeḥ
       - yecbeḥ
       - tgerrez
       - igerrez
-    - la robe: taqenduṛt 
-    - est: être
-    - la: article
-    - sont grands:
-      - meqrit
-    - est grand:
+    - les: article (pluriel)
+    - souliers: isebbaḍen
+    - sont: être
+    - grands: meqrit
+    - grand: 
       - meqqer
       - meqret
-    - est petite:
-      - meẓẓiyet
-    - a:
-      - sɛu
-      - sɛiɣ
-      - tesɛiḍ
-    - bon:
-      - ilha
-      - igerrez
-      - telha
-      - tgerrez
-    - voyage: inig
-    - combien: acḥal
-    - coûte: azal-is
-    - allons-y: iyyaw
-    - ça:
-      - wagi
-      - tagi
-    - ruḥ:
-      - ddu
-      - ad ruḥeɣ
-      - ad nruḥ
-    - à: ar
-    - ou: neɣ
-    - tu:
-      - kečč
-    - elle: nettat
-    - pizza: pizza
-    - il: netta
-    - boire:
-      - ad sweɣ
-      - ad nsew
-      - ad teswem
-    - Maria: Maria (name)
+    - le: article    
+    - petite: meẓẓiyet
+    
 
   Kabyle:
     - tecbeḥ: belle
