@@ -4,7 +4,7 @@ Module:
 Skills:
   - animals.yaml
   # - food.yaml
-  # - clothes.yaml
+  - clothes.yaml
   # - nature.yaml
   # - verbs.yaml
   # - plurals.yaml
