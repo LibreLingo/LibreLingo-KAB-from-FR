@@ -157,7 +157,7 @@ Mini-dictionary:
       - tgerrez
       - igerrez
     - les: article (pluriel)
-    - souliers: isebbaḍen
+    #- souliers: isebbaḍen
     - sont: être
     - grands: meqrit
     - grand: 
@@ -168,6 +168,9 @@ Mini-dictionary:
     
 
   Kabyle:
+    - isebbaḍen: 
+      - chaussures
+      - souliers
     - tecbeḥ: belle
     - yeɛjeb-iyi: je l'aime
     - acḥal: combien
