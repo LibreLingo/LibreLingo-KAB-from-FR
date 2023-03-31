@@ -148,18 +148,18 @@ Mini-dictionary:
     - coûte: 
       - azal
       - azal-is
-    - la: article (singulier)
+    - la: article_sgl
     - robe: taqenduṛt
-    - est: être
+    - est: être_sgl
     - belle:
       - tecbeḥ
       - yecbeḥ
       - tgerrez
       - igerrez
-    - les: article (pluriel)
+    - les: article_pl
     - souliers: isebbaḍen
     - chaussures
-    - sont: être
+    - sont: être_pl
     - grands: meqrit
     - grand: 
       - meqqer
@@ -173,26 +173,24 @@ Mini-dictionary:
       - chaussures
       - souliers
     - tecbeḥ: belle
-    - yeɛjeb-iyi: je l'aime
+    - yeɛjeb-iyi: l'aime
     - acḥal: combien
-    - azal-is: ça coûte
+    - azal-is: coûte
     - netta: il
     - meqrit: grands
     - meqqer: grand
     - meẓẓiyet: petite
     - inig: voyage
-    - iyyaw:
-      - allons-y
-      - on y va
+    - iyyaw: allons-y
     - ar: à
     - neɣ: ou
     - kečč: tu
     - kem: tu 
     - meẓẓi: petit
-    - tetetteḍ: tu manges
+    - tetetteḍ: manges
     - pizza: pizza
     - nettat: elle
     - netta: il
-    - ad sweɣ: je bois
-    - ad tesweḍ: tu bois
+    - sweɣ: boirai
+    - tesweḍ: boiras
     - Maria: Maria (name)
