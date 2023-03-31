@@ -29,7 +29,8 @@ New words:
       - hat3
 
   - Word: isebbaḍen
-    Translation: chaussures
+    Translation: les chaussures
+    Alternative translation: les souliers
     Images:
       - shoes1
       - shoes2
@@ -130,16 +131,18 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - belle:
+    - est belle:
       - tecbeḥ
       - yecbeḥ
       - tgerrez
       - igerrez
-    - grand:
-      - meqqer
+    - la robe: taqenduṛt 
+    - sont grands:
       - meqrit
-    - petit:
-      - meẓẓi
+    - est grand:
+      - meqqer
+      - meqret
+    - est petite:
       - meẓẓiyet
     - a:
       - sɛu
