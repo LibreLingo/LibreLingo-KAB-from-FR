@@ -117,12 +117,11 @@ Mini-dictionary:
       - itett
     - je: nekk
     - des: N/A
-    
-
+   
   Kabyle:
     - s: avec
-    - tewmert: santé
-    - txil-k: s'il vous plaît
+    - tezmert: santé
+    #- txil-k: s'il vous plaît
     - aman: eau
     - Cecilia: Cecilia (name)
     - itess: boit
