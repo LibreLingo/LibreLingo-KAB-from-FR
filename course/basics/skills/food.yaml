@@ -100,13 +100,12 @@ Mini-dictionary:
     - plaît: yeɛjeb
     - du: N/A
     - de: N/A
-    - eau: aman
+    - l'eau: aman
     - Cecilia: Cecilia (name)
     - boit
       - ttess
       - itess
     - boivent: tessen
-    - de: N/A
     - le: N/A
     - la: N/A
     - bière: tabyirt
@@ -121,7 +120,8 @@ Mini-dictionary:
   Kabyle:
     - s: avec
     - tezmert: santé
-    #- txil-k: s'il vous plaît
+    - tanalt-ik: ton_repas
+    - txil-k: s'il_vous_plaît
     - aman: eau
     - Cecilia: Cecilia (name)
     - itess: boit
