@@ -74,7 +74,7 @@ Phrases:
     Translation: Du pain, s'il vous plaît
 
   - Phrase: Aman, txil-m
-    Translation: De l'eau, s'il vous plaît
+    Translation: De "{l'eau}", s'il vous plaît
 
   - Phrase: Meqrit isebbaḍen 
     Translation: Les souliers sont grands
@@ -99,7 +99,7 @@ Mini-dictionary:
     - du: déterminant
     - de: déterminant
     - l: déterminant
-    - l'eau: aman
+    - "{l'eau}": aman
 
     - je: 
       - nekk
@@ -145,7 +145,7 @@ Mini-dictionary:
     - txil-m: s'il_vous_plaît
     - aman: 
       - eau
-      - l'eau
+      - "{l'eau}"
     
     - isebbaḍen: 
       - chaussures
