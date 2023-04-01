@@ -143,7 +143,9 @@ Mini-dictionary:
     - tanalt-ik: ton_repas
     - txil-k: s'il_vous_plaît 
     - txil-m: s'il_vous_plaît
-    - aman: eau
+    - aman: 
+      - eau
+      - l'eau
     
     - isebbaḍen: 
       - chaussures
