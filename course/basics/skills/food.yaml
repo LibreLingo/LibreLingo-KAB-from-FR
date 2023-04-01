@@ -2,138 +2,195 @@ Skill:
   Name: Aliments
   Id: 1
   Thumbnails:
-    - bread1
-    - milk2
-    - pasta3
+    - dress2
+    - t-shirt1
+    - hat2
   
 New words:
-  - Word: aɣrum
-    Translation: pain
+  - Word: taqenduṛt
+    Translation: robe
     Images:
-      - bread1
-      - bread2
-      - bread3
+      - dress1
+      - dress2
+      - dress3
 
-  - Word: ayefki
-    Translation: lait
+  - Word: atriku
+    Translation: t-shirt
     Images:
-      - milk1
-      - milk2
-      - milk3
+      - t-shirt1
+      - t-shirt2
+      - t-shirt3
 
-  - Word: irektiyen
-    Translation: pâtes
+  - Word: tamḍelliwt
+    Translation: chapeau
     Images:
-      - pasta1
-      - pasta2
-      - pasta3
+      - hat1
+      - hat2
+      - hat3
 
-  - Word: imeddukal
-    Translation: couple
+  - Word: isebbaḍen
+    Translation: les chaussures
+    Alternative translation: les souliers
     Images:
-      - couple1
-      - couple2
-      - couple3
+      - shoes1
+      - shoes2
+      - shoes3
 
-  - Word: aɣrum
-    Translation: le pain
+  - Word: taseddrit
+    Translation: chemise
     Images:
-      - bread1
-      - bread2
-      - bread3
+      - shirt1
+      - shirt2
+      - shirt3
 
-  - Word: ayefki
-    Translation: le lait
+  - Word: timeḥremt
+    Translation: jupe
     Images:
-      - milk1
-      - milk2
-      - milk3
+      - skirt1
+      - skirt2
+      - skirt3
 
-  - Word: irektiyen
-    Translation: les pâtes
+  - Word: iqaciṛen
+    Translation: chaussettes
     Images:
-      - pasta1
-      - pasta2
-      - pasta3
+      - socks1
+      - socks2
+      - socks3
 
-  - Word: imeddukal
-    Translation: le couple
+  - Word: taqenduṛt
+    Translation: la robe
     Images:
-      - couple1
-      - couple2
-      - couple3
+      - dress1
+      - dress2
+      - dress3
+
+  - Word: atriku
+    Translation: le t-shirt
+    Images:
+      - t-shirt1
+      - t-shirt2
+      - t-shirt3
+
+  - Word: tamḍelliwt
+    Translation: un chapeau 
+    Images:
+      - hat1
+      - hat2
+      - hat3
+
+  - Word: isebbaḍen
+    Translation: les chaussures
+    Images:
+      - shoes1
+      - shoes2
+      - shoes3
+
+  - Word: taseddrit
+    Translation: une chemise
+    Images:
+      - shirt1
+      - shirt2
+      - shirt3
+
+  - Word: timeḥremt
+    Translation: la jupe
+    Images:
+      - skirt1
+      - skirt2
+      - skirt3
+
+  - Word: aqaciṛ
+    Translation: la chaussette
+    Images:
+      - socks1
+      - socks2
+      - socks3
 
 Phrases:
-  - Phrase: S tezmert tanalt-ik
-    Translation: Bon appétit
+  - Phrase: Yeɛjeb-iyi!
+    Translation: Ça me plaît!
 
-  - Phrase: Txil-k
-    Translation: S'il vous plaît
+  - Phrase: Acḥal azal-is?
+    Translation: Combien ça coûte?
 
-  - Phrase: Aɣrum, txil-k
-    Translation: Du pain, s'il vous plaît
+  - Phrase: Tanemmirt
+    Translation: Merci
+    
+  - Phrase: Taqenduṛt tecbeḥ
+    Translation: La robe est belle
 
-  - Phrase: Aman, txil-m
-    Translation: De l'eau, s'il vous plaît
+  - Phrase: Meqrit isebbaḍen 
+    Translation: Les souliers sont grands
 
-  - Phrase: Cecilia ttess aman
-    Translation: Cecilia boit de l'eau
+  - Phrase: Atriku meqqer
+    Translation: Le t-shirt est grand
 
-  - Phrase: Imeddukal tessen tabyirt
-    Translation: Le couple boit de la bière
-
-  - Phrase: Yanis itett aɣrum
-    Translation: Yanis mange du pain
-
-  - Phrase: Tetteɣ irektiyen
-    Translation: Je mange des pâtes 
+  - Phrase: Timeḥremt meẓẓiyet
+    Translation: La jupe est petite
 
 
 Mini-dictionary:
   French:
-    - bon: 
-      - ilha
-      - igerrez
-    - appétit: učči
-    - s'il: netta
-    - vous: kunwi
+    - je: 
+      - nekk
+      - nekkini
     - plaît: yeɛjeb
-    - du: déterminant
-    - de: déterminant
-    - l'eau: aman
-    - Cecilia: Cecilia (name)
-    - boit
-      - ttess
-      - itess
-    - boivent: tessen
-    - le: déterminant
-    - la: déterminant
-    - bière: tabyirt
-    - Yanis: Yanis (name)
-    - mange: 
-      - ečč
-      - tetteɣ
-      - itett
-    - je: nekk
-    - des: déterminant
-   
+    - me: iyi
+    - combien: acḥal
+    - ça:
+      - wagi
+      - tagi
+      - wigi
+      - tigi
+    - coûte: 
+      - azal
+      - azal-is
+    - la: N/A
+    - robe: taqenduṛt
+    - est: être_sgl
+    - belle:
+      - tecbeḥ
+      - yecbeḥ
+      - tgerrez
+      - igerrez
+    - les: N/A
+    - souliers: isebbaḍen
+    - chaussures: isebbaḍen
+    - sont: être_pl
+    - grands: meqrit
+    - grand: 
+      - meqqer
+      - meqret
+    - le: N/A    
+    - petite: meẓẓiyet
+    - une: yiwet
+    - chaussette: aqaciṛ
+    
+
   Kabyle:
-    - s: avec
-    - tezmert: santé
-    - tanalt-ik: ton_repas
-    - txil-k: s'il_vous_plaît
-    - aman: eau
-    - Cecilia: Cecilia (name)
-    - itess: boit
-    - ttess: boit
-    - tessen: boivent
-    - tabyirt: bière    
-    - Yanis: Yanis (name)
-    - itett: mange
-    - tetteɣ: je mange
-   
-Two-way-dictionary:
-    - pain: aɣrum
-    - lait: ayefki
-    - pâtes: irektiyen
-    - couple: imeddukal
+    - isebbaḍen: 
+      - chaussures
+      - souliers
+    - tecbeḥ: belle
+    - yeɛjeb-iyi: me_plaît
+    - acḥal: combien
+    - azal-is: ça_coûte
+    - netta: il
+    - meqrit: grands
+    - meqqer: grand
+    - meẓẓiyet: petite
+    - inig: voyage
+    - iyyaw: allons-y
+    - ar: à
+    - neɣ: ou
+    - kečč: tu
+    - kem: tu 
+    - meẓẓi: petit
+    - tetetteḍ: manges
+    - pizza: pizza
+    - nettat: elle
+    - netta: il
+    - sweɣ: boirai
+    - tesweḍ: boiras
+    - Maria: Maria (name)
+
