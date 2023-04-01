@@ -68,13 +68,13 @@ Phrases:
     Translation: Bon appétit
 
   - Phrase: Txil-k
-    Translation: S'il vous plaît
+    Translation: "{S'il vous plaît}"
 
   - Phrase: Aɣrum, txil-k
-    Translation: Du pain, s'il vous plaît
+    Translation: Du pain, "{s'il vous plaît}"
 
   - Phrase: Aman, txil-m
-    Translation: De "{l'eau}", s'il vous plaît
+    Translation: De "{l'eau}", "{s'il vous plaît}"
 
   - Phrase: Meqrit isebbaḍen 
     Translation: Les souliers sont grands
@@ -92,7 +92,9 @@ Mini-dictionary:
       - ilha
       - igerrez
     - appétit: učči
-    - s'il: netta
+    - "{s'il vous plaît}": 
+      - txil-k
+      - txil-m
     - S'il: netta
     - vous: kunwi
     - plaît: yeɛjeb
@@ -140,9 +142,9 @@ Mini-dictionary:
   Kabyle:
     - s: avec
     - tezmert: santé
-    - tanalt-ik: ton_repas
-    - txil-k: s'il_vous_plaît 
-    - txil-m: s'il_vous_plaît
+    - tanalt-ik: "{ton repas}"
+    - txil-k: "{s'il vous plaît}" 
+    - txil-m: "{s'il vous plaît}"
     - aman: 
       - eau
       - "{l'eau}"
@@ -151,7 +153,7 @@ Mini-dictionary:
       - chaussures
       - souliers
     - tecbeḥ: belle
-    - yeɛjeb-iyi: me_plaît
+    - yeɛjeb-iyi: "{me plaît}"
     - acḥal: combien
     - azal-is: ça_coûte
     - netta: il
