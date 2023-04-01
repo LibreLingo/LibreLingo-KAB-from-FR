@@ -67,8 +67,8 @@ Phrases:
   - Phrase: S tezmert tanalt-ik
     Translation: Bon appétit
 
-  - Phrase: Acḥal azal-is?
-    Translation: Combien ça coûte?
+  - Phrase: Txil-k
+    Translation: S'il vous plaît
 
   - Phrase: Tanemmirt
     Translation: Merci
@@ -136,7 +136,8 @@ Mini-dictionary:
     - s: avec
     - tezmert: santé
     - tanalt-ik: ton_repas
- 
+    - txil-k: s'il_vous_plaît 
+    
     - isebbaḍen: 
       - chaussures
       - souliers
