@@ -97,7 +97,7 @@ Mini-dictionary:
     - plaît: yeɛjeb
     - du: déterminant
     - de: déterminant
-    - {l'eau}: aman
+    - l: déterminqnt
 
     - je: 
       - nekk
@@ -151,6 +151,7 @@ Mini-dictionary:
     - azal-is: ça_coûte
     - netta: il
     - meqrit: grands
+
     - meqqer: grand
     - meẓẓiyet: petite
     - inig: voyage
@@ -168,3 +169,6 @@ Mini-dictionary:
     - tesweḍ: boiras
     - Maria: Maria (name)
 
+Two-way-dictionalry:
+    - eau: aman
+    
