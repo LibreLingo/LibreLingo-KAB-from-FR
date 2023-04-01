@@ -2,31 +2,31 @@ Skill:
   Name: Aliments
   Id: 1
   Thumbnails:
-    - dress2
-    - t-shirt1
-    - hat2
+    - bread1
+    - milk2
+    - pasta3
   
 New words:
-  - Word: taqenduṛt
-    Translation: robe
+  - Word: aɣrum
+    Translation: pain
     Images:
-      - dress1
-      - dress2
-      - dress3
+      - bread1
+      - bread2
+      - bread3
 
-  - Word: atriku
-    Translation: t-shirt
+  - Word: ayefki
+    Translation: lait
     Images:
-      - t-shirt1
-      - t-shirt2
-      - t-shirt3
+      - milk1
+      - milk2
+      - milk3
 
-  - Word: tamḍelliwt
-    Translation: chapeau
+  - Word: irektiyen
+    Translation: pâtes
     Images:
-      - hat1
-      - hat2
-      - hat3
+      - pasta1
+      - pasta2
+      - pasta3
 
   - Word: isebbaḍen
     Translation: les chaussures
