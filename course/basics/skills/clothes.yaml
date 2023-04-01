@@ -43,7 +43,7 @@ New words:
       - shirt2
       - shirt3
 
-  - Word: tameḥremt
+  - Word: timeḥremt
     Translation: jupe
     Images:
       - skirt1
@@ -107,8 +107,8 @@ New words:
       - socks3
 
 Phrases:
-  - Phrase: yeɛjeb-iyi!
-    Translation: Je l'aime!
+  - Phrase: Yeɛjeb-iyi!
+    Translation: Ça me plaît!
 
   - Phrase: Acḥal azal-is?
     Translation: Combien ça coûte?
@@ -134,11 +134,8 @@ Mini-dictionary:
     - je: 
       - nekk
       - nekkini
-    - l'aime: 
-      - riɣ-t
-      - riɣ-tt
-      - ḥemmleɣ-t
-      - ḥemmleɣ-tt
+    - plaît: yeɛjeb
+    - me: iyi
     - combien: acḥal
     - ça:
       - wagi
@@ -148,7 +145,7 @@ Mini-dictionary:
     - coûte: 
       - azal
       - azal-is
-    - la: article_sgl
+    - la: N/A
     - robe: taqenduṛt
     - est: être_sgl
     - belle:
@@ -156,7 +153,7 @@ Mini-dictionary:
       - yecbeḥ
       - tgerrez
       - igerrez
-    - les: article_pl
+    - les: N/A
     - souliers: isebbaḍen
     - chaussures: isebbaḍen
     - sont: être_pl
@@ -164,7 +161,7 @@ Mini-dictionary:
     - grand: 
       - meqqer
       - meqret
-    - le: article    
+    - le: N/A    
     - petite: meẓẓiyet
     - une: yiwet
     - chaussette: aqaciṛ
@@ -175,9 +172,9 @@ Mini-dictionary:
       - chaussures
       - souliers
     - tecbeḥ: belle
-    - yeɛjeb-iyi: l'aime
+    - yeɛjeb-iyi: me_plaît
     - acḥal: combien
-    - azal-is: coûte
+    - azal-is: ça_coûte
     - netta: il
     - meqrit: grands
     - meqqer: grand
