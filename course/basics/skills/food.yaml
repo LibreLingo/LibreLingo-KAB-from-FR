@@ -21,15 +21,15 @@ New words:
       - milk2
       - milk3
 
-  - Word: arekti
-    Translation: pâte
+  - Word: irektiyen
+    Translation: pâtes
     Images:
       - pasta1
       - pasta2
       - pasta3
 
-  - Word: tayuga
-    Translation: paire
+  - Word: imeddukal
+    Translation: couple
     Images:
       - couple1
       - couple2
@@ -56,15 +56,15 @@ New words:
       - pasta2
       - pasta3
 
-  - Word: tayuga
-    Translation: la paire
+  - Word: imeddukal
+    Translation: le couple
     Images:
       - couple1
       - couple2
       - couple3
 
 Phrases:
-  - Phrase: S tezmert tanalt-k
+  - Phrase: S tezmert tanalt-ik
     Translation: Bon appétit
 
   - Phrase: Txil-k
@@ -79,8 +79,8 @@ Phrases:
   - Phrase: Cecilia ttess aman
     Translation: Cecilia boit de l'eau
 
-  - Phrase: Argaz d tmeṭṭut tessen tabyirt
-    Translation: L'homme et la femme boivent de la bière
+  - Phrase: Imeddukal tessen tabyirt
+    Translation: Le couple boit de la bière
 
   - Phrase: Yanis itett aɣrum
     Translation: Yanis mange du pain
@@ -91,56 +91,45 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - s'il vous plaît: 
-      - txil-k
-      - txil-m
+    - bon: 
+      - ilha
+      - igerrez
+    - appétit: učči
+    - s'il: netta
+    - vous: kunwi
+    - plaît: yeɛjeb
+    - du: N/A
+    - de: N/A
     - eau: aman
     - Cecilia: Cecilia (name)
-    - boivent: tessen
     - boit
       - ttess
       - itess
+    - boivent: tessen
+    - de: N/A
+    - le: N/A
+    - la: N/A
     - bière: tabyirt
     - Yanis: Yanis (name)
-    - mange: itett
-    - je: nekk
-    - mange:
-      - tetteɣ
+    - mange: 
       - ečč
-    - aime:
-      - ḥemmleɣ
       - tetteɣ
-    - de: d
-    - l'eau: aman
-    - comment:
-      - amek
-    - beaucoup:
-      - aṭas
-      - xilla
+      - itett
+    - je: nekk
+    - des: N/A
+    
 
   Kabyle:
     - s: avec
+    - tewmert: santé
     - txil-k: s'il vous plaît
     - aman: eau
     - Cecilia: Cecilia (name)
     - itess: boit
     - ttess: boit
     - tessen: boivent
-    - tabyirt: bière
-    - d: le
+    - tabyirt: bière    
     - Yanis: Yanis (name)
-    - nekk: je
     - itett: mange
     - tetteɣ: je mange
-    - argaz: l'homme
-    - tameṭṭut: la femme
-    - d tmeṭṭut: et la femme
-    - ḥemmleɣ: j'aime
-    - acḥal: combien
-    - azal: 
-      - coût
-      - valeur
-     - azal-is: 
-      - son coût
-      - coûte
-
+   
