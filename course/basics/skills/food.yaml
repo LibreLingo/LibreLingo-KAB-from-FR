@@ -70,11 +70,11 @@ Phrases:
   - Phrase: Txil-k
     Translation: S'il vous plaît
 
-  - Phrase: Tanemmirt
-    Translation: Merci
-    
-  - Phrase: Taqenduṛt tecbeḥ
-    Translation: La robe est belle
+  - Phrase: Aɣrum, txil-k
+    Translation: Du pain, s'il vous plaît
+
+  - Phrase: Aman, txil-m
+    Translation: De l'eau, s'il vous plaît
 
   - Phrase: Meqrit isebbaḍen 
     Translation: Les souliers sont grands
@@ -95,6 +95,9 @@ Mini-dictionary:
     - s'il: netta
     - vous: kunwi
     - plaît: yeɛjeb
+    - du: déterminant
+    - de: déterminant
+    - l'eau: aman
 
     - je: 
       - nekk
