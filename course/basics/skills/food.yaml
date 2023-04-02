@@ -72,6 +72,10 @@ Phrases:
 
   - Phrase: Aɣrum, txil-k
     Translation: Du pain, "{s'il vous plaît}"
+    
+  - Phrase: Aman, txil-m
+    Translation: De "{l'eau}", "{s'il vous plaît}"
+
 
 Mini-dictionary:
   French:
@@ -86,6 +90,7 @@ Mini-dictionary:
     - plaît: yeɛjeb
     - "{l'eau}": aman
     - "{de l'eau}": aman
+    - de: article
     - Cecilia: Cecilia (name)
     - boit:
       - ttess
