@@ -109,7 +109,8 @@ Mini-dictionary:
       - tetteɣ
     - "{des pâtes}": irektiyen
     - Yanis: Yanis (nom)
-    - "{du pain}": aɣrum   
+    - "{du pain}": aɣrum 
+    - "{Du pain}": aɣrum
     - plaît: yeɛjeb
     
     
@@ -139,6 +140,7 @@ Mini-dictionary:
       - pâtes
     - aɣrum:
       - "{du pain}"
+      - "{Du pain}"
       - pain    
     - itett: mange
     - tetteɣ: mange   
