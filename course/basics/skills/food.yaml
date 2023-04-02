@@ -70,6 +70,9 @@ Phrases:
   - Phrase: Txil-k
     Translation: "{S'il vous plaît}"
 
+  - Phrase: Aɣrum, txil-k
+    Translation: Du pain, "{s'il vous plaît}"
+
 Mini-dictionary:
   French:
     - bon: 
@@ -103,8 +106,8 @@ Mini-dictionary:
       - tetteɣ
     - "{des pâtes}": irektiyen
     - Yanis: Yanis (nom)
-    - "{du pain}": aɣrum 
-    - "{Du pain}": aɣrum
+    - du: article 
+    - pain: aɣrum     
     - plaît: yeɛjeb
     
     
@@ -132,10 +135,7 @@ Mini-dictionary:
     - irektiyen:
       - "{des pâtes}"
       - pâtes
-    - aɣrum:
-      - "{du pain}"
-      - "{Du pain}"
-      - pain    
+    - aɣrum: pain
     - itett: mange
     - tetteɣ: mange   
     - Cecilia: Cecilia (name)
