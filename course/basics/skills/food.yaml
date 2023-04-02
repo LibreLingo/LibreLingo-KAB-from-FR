@@ -76,19 +76,6 @@ Phrases:
   - Phrase: Aman, txil-m
     Translation: De "{l'eau}", "{s'il vous plaît}"
 
-#  - Phrase: Cecilia ttess aman
-#    Translation: Cecilia boit "{de l'eau}"
-
-#  - Phrase: Imeddukal tessen tabyirt
-#    Translation: Les amis boivent de la bière
-
-#  - Phrase: Yanis itett aɣrum
-#    Translation: Yanis mange du pain
-
-#  - Phrase: Tetteɣ irektiyen
-#    Translation: Je mange "{des pâtes}"
-
-
 Mini-dictionary:
   French:
     - bon: 
@@ -103,7 +90,7 @@ Mini-dictionary:
     - "{l'eau}": aman
     - "{de l'eau}": aman
     - Cecilia: Cecilia (name)
-    - boit
+    - boit:
       - ttess
       - itess
     - boivent: tessen
@@ -113,10 +100,6 @@ Mini-dictionary:
     - bière: tabyirt
     - "{les amis}": imeddukal
     - amis: imeddukal
-    - boit: 
-      - itess
-      - ttess
-    - boivent: tessen
     - je: 
       - nekk
       - nekkini
@@ -160,11 +143,11 @@ Mini-dictionary:
     - itett: mange
     - tetteɣ: mange   
     - Cecilia: Cecilia (name)
-    - Yanis: Yanis (nom) 
+    - Yanis: Yanis (name) 
     - ar: à
     - neɣ: ou
     - kečč: tu
-    - kem: tu 
+    - kemm: tu 
     - pizza: pizza
     - nettat: elle
     - netta: il
