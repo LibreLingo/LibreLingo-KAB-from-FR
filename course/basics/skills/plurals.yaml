@@ -38,7 +38,7 @@ New words:
       - student2
       - student3
 
-  - Word: "{tizwal uṛumi}"
+  - Word: tizwal-uṛumi
     Translation: fraises
     Images:
       - strawberry1
@@ -94,7 +94,7 @@ New words:
       - student2
       - student3
 
-  - Word: "{tizwal uṛumi}"
+  - Word: tizwal-uṛumi
     Translation: les fraises
     Images:
       - strawberry1
@@ -122,13 +122,13 @@ Phrases:
   - Phrase: Tiftisin tihuskayin
     Translation: Belles plages
 
-  - Phrase: "{tizwal uṛumi}" d tizeggaɣin 
+  - Phrase: Tizwal-uṛumi d tizeggaɣin 
     Translation: Les fraises sont rouges
 
   - Phrase: Imcac d inelmaden
     Translation: Les chats sont étudiants
 
-  - Phrase: Nwaḍer meqrit 
+  - Phrase: Nnwaḍer meqrit 
     Translation: Les lunettes sont grandes 
 
   - Phrase: Ibṛiken d imsujiyen 
@@ -144,7 +144,7 @@ Mini-dictionary:
     - belles: tihuskayin
     - plages: tiftisin
     - les: déterminant
-    - fraises: "{tizwal uṛumi}"
+    - fraises: tizwal-uṛumi
     - bleues: tiẓerwalin
     - chemises: tisedray
     - sont: 
@@ -154,7 +154,7 @@ Mini-dictionary:
       - tizeggaɣin
       - izeggaɣen
     - étudiants: inelmaden
-    - lunettes: nwaḍer
+    - lunettes: nnwaḍer
     - grandes: 
       - meqrit
       - timeqranin
@@ -174,12 +174,12 @@ Mini-dictionary:
       - est
     - tizeggaɣin: rouges
     - inelmaden: étudiants
-    - nwaḍer: lunettes
+    - nnwaḍer: lunettes
     - meqrit: 
       - grandes
       - grands
     - ibṛiken: canards
     - imsujiyen: docteurs
     - tiẓerwalin: bleues
-    - "{tizwal uṛumi}": fraises
+    - tizwal-uṛumi: fraises
     
