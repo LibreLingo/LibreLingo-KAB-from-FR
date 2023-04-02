@@ -38,7 +38,7 @@ New words:
       - student2
       - student3
 
-  - Word: tizwal uṛumi
+  - Word: "{tizwal uṛumi}"
     Translation: fraises
     Images:
       - strawberry1
@@ -94,7 +94,7 @@ New words:
       - student2
       - student3
 
-  - Word: tiwzal uṛumi
+  - Word: "{tizwal uṛumi}"
     Translation: les fraises
     Images:
       - strawberry1
@@ -181,5 +181,5 @@ Mini-dictionary:
     - ibṛiken: canards
     - imsujiyen: docteurs
     - tiẓerwalin: bleues
-#    - "{tizwal uṛumi}": fraises
+    - "{tizwal uṛumi}": fraises
     
