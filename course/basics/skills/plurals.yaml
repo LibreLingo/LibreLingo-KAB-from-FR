@@ -122,7 +122,7 @@ Phrases:
   - Phrase: Tiftisin tihuskayin
     Translation: Belles plages
 
-  - Phrase: "{Tizwal uṛumi}" d tizeggaɣin 
+  - Phrase: "{tizwal uṛumi}" d tizeggaɣin 
     Translation: Les fraises sont rouges
 
   - Phrase: Imcac d inelmaden
@@ -144,7 +144,7 @@ Mini-dictionary:
     - belles: tihuskayin
     - plages: tiftisin
     - les: déterminant
-    - fraises: "{Tizwal uṛumi}"
+    - fraises: "{tizwal uṛumi}"
     - bleues: tiẓerwalin
     - chemises: tisedray
     - sont: 
@@ -181,5 +181,5 @@ Mini-dictionary:
     - ibṛiken: canards
     - imsujiyen: docteurs
     - tiẓerwalin: bleues
-    - "{Tizwal uṛumi}": fraises
+    - "{tizwal uṛumi}": fraises
     
