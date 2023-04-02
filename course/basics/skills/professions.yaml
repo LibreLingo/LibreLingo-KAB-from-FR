@@ -3,142 +3,151 @@ Skill:
   Id: 12
 
 New words:
-  - Word: médico
-    Synonyms:
-      - médica
-    Translation: doctor
+  - Word: amsuji
+    Translation: docteur
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: bombera
-    Synonyms:
-      - bombero
-    Translation: firefighter
+  - Word: tamsujit
+    Translation: docteure
+    Images:
+      - doctor1
+      - doctor2
+      - doctor3
+      
+  - Word: tasexsayt
+    Translation: pompière
     Images:
       - firefighter1
       - firefighter2
       - firefighter3
 
-  - Word: bombero
-    Synonyms:
-      - bombera
-    Translation: firefighter
+  - Word: asexsay
+    Translation: pompier
     Images:
       - firefighter1
       - firefighter2
       - firefighter3
 
-
-  - Word: granjera
-    Synonyms:
-      - granjero
-    Translation: farmer
+  - Word: tafellaḥt
+    Translation: fermière
     Images:
       - farmer1
       - farmer2
       - farmer3
 
-
-  - Word: granjero
-    Synonyms:
-      - granjera
-    Translation: farmer
+  - Word: afellaḥ
+    Translation: fermier
     Images:
       - farmer1
       - farmer2
       - farmer3
   
-  - Word: una médica
-    Synonyms:
-      - un médico
-    Translation: a doctor
+  - Word: yiwet temsujit
+    Translation: une doteure
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: granjeras
-    Synonyms:
-      - granjeros
+  - Word: ifellaḥen
     Translation: farmers
     Images:
       - farmer1
       - farmer2
       - farmer3
 
-
+  - Word: tifellaḥin
+    Translation: fermières
+    Images:
+      - farmer1
+      - farmer2
+      - farmer3
+      
 Phrases:
-  - Phrase: La médica bebe agua
-    Alternative versions:
-      - La médica bebe agua
-    Translation: The doctor drinks water
+  - Phrase: Tamsujit ttess aman 
+    Translation: La docteure boit de "{l'eau}"
 
-  - Phrase: El camarero trabaja
-    Alternative versions:
-      - La camarera trabaja
-    Translation: The waiter works
+  - Phrase: Aqeddac ittmahal
+    Translation: Le valet travaille 
 
-  - Phrase: Las bomberas llegan
-    Alternative versions:
-      - Los bomberos llegan
-    Translation: The firefighters arrive
+  - Phrase: Isexsayen ttawḍen
+    Translation: Les pompiers arrivent
 
-  - Phrase: El granjero ve los animales
-    Alternative versions:
-      - La  granjera ve los animales
-    Translation: The farmer sees the animals
+  - Phrase: Afellaḥ yettwali iɣersiwen 
+    Translation: Le fermier voit les animaux
 
-  - Phrase: Los enfermeros viven aquí
-    Alternative versions:
-      - Las enfermeras viven aquí
-    Translation: The nurses live here
+  - Phrase: "{timaragin n umseji}" zedɣent dagi 
+    Translation: Les infirmières habitent ici
 
-  - Phrase: El cantante canta bien
-    Alternative versions:
-      - El cantor canta bien
-      - La cantora canta bien
-    Translation: The singer sings well
+  - Phrase: Tacennayt tecna taɣect tahuskayt 
+    Translation: La chanteuse "{a chanté}" une belle chanson
+    
+  - Phrase: Tacennayt d ucennay d inaẓuren  
+    Translation: La chanteuse et le chanteur sont des artistes  
 
 Mini-dictionary:
   Kabyle:
-    - médica: doctor
-    - camarero: waiter
-    - trabaja: works
-    - bomberas: firefighters
-    - llegan: arrive
-    - ve: sees
-    - animales: animals
-    - enfermeros: nurses
-    - viven: live
-    - aquí: here
-    - cantante: singer
-    - canta: sings
-    - bien: well
-
+    - tamsujit: 
+      - docteure
+      - médecin
+    - aqeddac: valet
+    - ittmahal: travaille
+    - isexsayen: pompiers
+    - ttawḍen: arrivent
+    - afellaḥ: fermier
+    - yettwali: voit
+    - iɣersiwen: animaux
+    - timaragin: assistantes
+    - n: de
+    - umsuji: 
+      - docteur
+      - médecin
+    - "{Timaragin n umsuji}": infirmières
+    - zedɣent: habitent
+    - dagi: ici
+    - tacennayt: chanteuse
+    - tecna: "{a chanté}"
+    - taɣect: 
+      - chanson
+      - voix
+    - ucennay: chanteur
+    - inaẓuren: artistes
+      
+  
   French:
-    - waiter: camarero
-    - works:
-      - trabaja
-      - funciona
-    - arrive:
-      - llegan
-      - llego
-      - llegas
-    - firefighters:
-      - bomberos
-      - bomberas
-    - sees: ve
-    - animals: animales
-    - nurses:
-      - enfermeros
-      - enfermeras
-    - live:
-        - vive
-        - viven
-        - vivo
-    - here: aquí
-    - singer: cantante
-    - sings: canta
-    - well: bien
+    - docteure: tamsujit
+    - valet: aqeddac
+    - travaille:
+      - ittmahil
+      - tettmahil
+    - pompiers: isexsayen
+    - arrivent:
+      - ttawḍen
+      - ttawḍent
+    - fermier: afellaḥ 
+    - voit:
+      - ittwali
+      - yettwali
+      - tettwali
+    - animaux: iɣersiwen 
+    - infirmières: "{Timaragin n umsuji}"
+    - habitent: 
+      - zedɣent
+      - zedɣen
+    - ici: dagi
+    - chanteuse: tacennayt
+    - a: avoir
+    - "{a chanté}": 
+      - yecna
+      - tecna
+    - chansson: taɣect 
+    - et: d
+    - chanteur: acennay
+    - artistes: inaẓuren
+    
+    
+    
+   
