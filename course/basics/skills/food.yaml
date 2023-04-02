@@ -82,8 +82,11 @@ Phrases:
   - Phrase: Imeddukal tessen tabyirt
     Translation: Le couple boit de la bière
 
-  - Phrase: Timeḥremt meẓẓiyet
-    Translation: "{la jupe}" est petite
+  - Phrase: Yanis itett aɣrum
+    Translation: Yanis mange du pain
+
+  - Phrase: Tetteɣ irektiyen
+    Translation: Je mange "{des pâtes}"
 
 
 Mini-dictionary:
@@ -118,10 +121,18 @@ Mini-dictionary:
       - itess
       - ttess
     - boivent: tessen
-
     - je: 
       - nekk
       - nekkini
+    - mange: 
+      - ečč
+      - itett
+      - tetteɣ
+    - "{des pâtes}": irektiyen
+    - Yanis: Yanis (nom)
+    - "{du pain}": aɣrum
+    
+      
     - plaît: yeɛjeb
     - me: iyi
     - combien: acḥal
@@ -175,6 +186,14 @@ Mini-dictionary:
     - tessen: boivent
     - ttess: boit
     - itess: boit
+    - irektiyen:
+      - "{des pâtes}"
+      - pâtes
+    - aɣrum:
+      - "{du pain}"
+      - pain    
+    - itett: mange
+    - tetteɣ: mange    
     
     - isebbaḍen: 
       - chaussures
