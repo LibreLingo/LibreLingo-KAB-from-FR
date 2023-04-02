@@ -130,8 +130,8 @@ Mini-dictionalry:
   French:
     - bon: ameggaz
     - voyage: 
-        - inig
-        - yinig
+      - inig
+      - yinig
     - "{voyage!}": inig
     - nous: 
         - nekni
