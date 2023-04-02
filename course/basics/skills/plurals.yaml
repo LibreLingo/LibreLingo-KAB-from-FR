@@ -1,157 +1,185 @@
 Skill:
-  Name: Plurals
+  Name: Pluriels
   Id: 11
 
 New words:
-  - Word: gatos
-    Translation: cats
+  - Word: imcac
+    Translation: chats
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: playas
-    Translation: beaches
+  - Word: tiftisin
+    Translation: plages
     Images:
       - beach1
       - beach2
       - beach3
 
-  - Word: patos
-    Translation: ducks
+  - Word: ibṛiken
+    Translation: canards
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: camisas
-    Translation: shirts
+  - Word: tisedray
+    Translation: chemises
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: estudiantes
-    Translation: students
+  - Word: inelmaden
+    Translation: étudiants
     Images:
       - student1
       - student2
       - student3
 
-  - Word: fresas
-    Translation: strawberries
+  - Word: tizwal-uṛumi
+    Translation: fraises
     Images:
       - strawberry1
       - strawberry2
       - strawberry3
 
-  - Word: gafas
-    Translation: glasses
+  - Word: nwaḍer
+    Translation: lunettes
     Images:
       - glasses1
       - glasses2
       - glasses3
 
-  - Word: médicos
-    Translation: doctors
+  - Word: imejjayen
+    Translation: docteurs
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: los gatos
-    Translation: the cats
+  - Word: imcac
+    Translation: les chats
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: las playas
-    Translation: the beaches
+  - Word: tiftisin
+    Translation: les plages
     Images:
       - beach1
       - beach2
       - beach3
 
-  - Word: los patos
-    Translation: the ducks
+  - Word: ibṛiken
+    Translation: les canards
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: las camisas
-    Translation: the shirts
+  - Word: tisedray
+    Translation: les chemises
     Images:
       - shirt1
       - shirt2
       - shirt3
 
-  - Word: los estudiantes
-    Translation: the students
+  - Word: inelmaden
+    Translation: les étudiants
     Images:
       - student1
       - student2
       - student3
 
-  - Word: las fresas
-    Translation: the strawberries
+  - Word: tiwzal-uṛumi
+    Translation: les fraises
     Images:
       - strawberry1
       - strawberry2
       - strawberry3
 
-  - Word: las gafas
-    Translation: the glasses
+  - Word: nwaḍer
+    Translation: les lunettes
     Images:
       - glasses1
       - glasses2
       - glasses3
 
-  - Word: los médicos
-    Translation: the doctors
+  - Word: imejjayen
+    Translation: les docteurs
     Images:
       - doctor1
       - doctor2
       - doctor3
 
 Phrases:
-  - Phrase: Gatos verdes
-    Translation: green cats
+  - Phrase: Imcac izegzawen
+    Translation: Chats verts
 
-  - Phrase: Playas bonitas
-    Translation: Beautiful beaches
-    Also accepted:
-      - Pretty beaches
+  - Phrase: Tiftisin tihuskayin
+    Translation: Belles plages
 
-  - Phrase: Las camisas son rojas
-    Translation: The shirts are red
+  - Phrase: Tizwal-uṛumi d tizeggaɣin 
+    Translation: Les fraises sont rouges
 
-  - Phrase: Los gatos son estudiantes
-    Translation: The cats are students
+  - Phrase: Imcac d inelmaden
+    Translation: Les chats sont étudiants
 
-  - Phrase: Las gafas son grandes
-    Translation: The glasses are big
+  - Phrase: Nwaḍer meqrit 
+    Translation: Les lunettes sont grandes 
 
-  - Phrase: Los patos son médicos
-    Translation: The ducks are doctors
+  - Phrase: Ibṛiken d imejjayen 
+    Translation: Les canards sont docteurs
+    
+  - Phrase: Tisedray d tiẓerwalin
+    Translation: Les chemises sont bleues
 
 Mini-dictionary:
   French:
-    - cats: gatos
-    - green:
-      - verde
-      - verdes
-    - red:
-      - rojo
-      - rojos
-      - roja
-      - rojas
+    - chats: imcac
+    - verts: izegzawen
+    - belles: tihuskayin
+    - plages: tiftisin
+    - les: déterminant
+    - fraises: tizwal-uṛumi
+    - bleues: tiẓerwalin
+    - chemises: tisedray
+    - sont: 
+      - déterminant
+      - d
+    - rouges: 
+      - tizeggaɣin
+      - izeggaɣen
+    - étudiants: inelmaden
+    - lunettes: nwaḍer
+    - grandes: 
+      - meqrit
+      - timeqranin
+    - canards: ibṛiken
+    - docteurs: imejjayen
+    
 
   Kabyle:
-    - gatos: cats
-    - verdes: green
-    - bonitas: beautiful
-    - las: the
-    - rojas: red
-
+    - imcac: chats
+    - izegzawen: verts
+    - tiftisin: plages
+    - tihuskayin: belles
+    - tisedray: chemises
+    - d:
+      - tanzeɣt
+      - sont
+      - est
+    - tizeggaɣin: rouges
+    - inelmaden: étudiants
+    - nwaḍer: lunettes
+    - meqrit: 
+      - grandes
+      - grands
+    - ibṛiken: canards
+    - imejjayen: docteurs
+    - tiẓerwalin: bleues
+    - tizwal-uṛumi: fraises
+    
