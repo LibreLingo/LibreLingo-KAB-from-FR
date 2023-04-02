@@ -118,7 +118,7 @@ Phrases:
     Translation: Mer ou montagne?
 
   - Phrase: Asif yetturug ɣer yilel
-    Translation: La rivière verse coûle vers la mer
+    Translation: La rivière coûle vers la mer
     
   - Phrase: Itij yettali deg yigenni
     Translation: Le soleil monte dans le ciel
@@ -132,6 +132,7 @@ Mini-dictionalry:
     - voyage: 
         - inig
         - yinig
+    - "{voyage!}": inig
     - nous: 
         - nekni
         - nekkenti
