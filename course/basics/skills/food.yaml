@@ -29,7 +29,7 @@ New words:
       - pasta3
 
   - Word: imeddukal
-    Translation: couple
+    Translation: amis
     Images:
       - couple1
       - couple2
@@ -57,7 +57,7 @@ New words:
       - pasta3
 
   - Word: imeddukal
-    Translation: le couple
+    Translation: les amis
     Images:
       - couple1
       - couple2
@@ -80,7 +80,7 @@ Phrases:
     Translation: Cecilia boit "{de l'eau}"
 
   - Phrase: Imeddukal tessen tabyirt
-    Translation: Le couple boit de la bière
+    Translation: Les amis boivent de la bière
 
   - Phrase: Yanis itett aɣrum
     Translation: Yanis mange du pain
@@ -98,12 +98,8 @@ Mini-dictionary:
     - "{s'il vous plaît}": 
       - txil-k
       - txil-m
-    - S'il: netta
     - vous: kunwi
     - plaît: yeɛjeb
-    - du: déterminant
-    - de: déterminant
-    - l: déterminant
     - "{l'eau}": aman
     - "{de l'eau}": aman
     - Cecilia: Cecilia (name)
@@ -115,8 +111,8 @@ Mini-dictionary:
     - bière: tabyirt
     - "{de la bière}": tabyirt
     - bière: tabyirt
-    - "{le couple}": imeddukal
-    - couple: imeddukal
+    - "{les amis}": imeddukal
+    - amis: imeddukal
     - boit: 
       - itess
       - ttess
@@ -130,40 +126,9 @@ Mini-dictionary:
       - tetteɣ
     - "{des pâtes}": irektiyen
     - Yanis: Yanis (nom)
-    - "{du pain}": aɣrum
-    
-      
+    - "{du pain}": aɣrum   
     - plaît: yeɛjeb
-    - me: iyi
-    - combien: acḥal
-    - ça:
-      - wagi
-      - tagi
-      - wigi
-      - tigi
-    - coûte: 
-      - azal
-      - azal-is
-    - la: N/A
-    - robe: taqenduṛt
-    - est: être_sgl
-    - belle:
-      - tecbeḥ
-      - yecbeḥ
-      - tgerrez
-      - igerrez
-    - les: N/A
-    - souliers: isebbaḍen
-    - chaussures: isebbaḍen
-    - sont: être_pl
-    - grands: meqrit
-    - grand: 
-      - meqqer
-      - meqret
-    - le: N/A    
-    - petite: meẓẓiyet
-    - une: yiwet
-    - chaussette: aqaciṛ
+    
     
 
   Kabyle:
@@ -180,9 +145,9 @@ Mini-dictionary:
       - bière
       - "{la bière}"
       - "{de la bière}"
-    - imeddukal: 
-      - couple
-      - "{le couple}"
+    - imeddukal:      
+      - amis
+      - "{les amis}"
     - tessen: boivent
     - ttess: boit
     - itess: boit
@@ -193,33 +158,14 @@ Mini-dictionary:
       - "{du pain}"
       - pain    
     - itett: mange
-    - tetteɣ: mange    
-    
-    - isebbaḍen: 
-      - chaussures
-      - souliers
-    - tecbeḥ: belle
-    - yeɛjeb-iyi: "{me plaît}"
-    - acḥal: combien
-    - azal-is: ça_coûte
-    - netta: il
-    - meqrit: grands
-
-    - meqqer: grand
-    - meẓẓiyet: petite
-    - inig: voyage
-    - iyyaw: allons-y
+    - tetteɣ: mange   
+    - Cecilia: Cecilia (name)
+    - Yanis: Yanis (nom) 
     - ar: à
     - neɣ: ou
     - kečč: tu
     - kem: tu 
-    - meẓẓi: petit
-    - tetetteḍ: manges
     - pizza: pizza
     - nettat: elle
     - netta: il
-    - sweɣ: boirai
-    - tesweḍ: boiras
-    - Maria: Maria (name)
-
     
