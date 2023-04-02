@@ -76,14 +76,14 @@ Phrases:
   - Phrase: Aman, txil-m
     Translation: De "{l'eau}", "{s'il vous plaît}"
 
-  - Phrase: Meqrit isebbaḍen 
-    Translation: Les souliers sont grands
+  - Phrase: Cecilia ttess aman
+    Translation: Cecilia boit "{de l'eau}"
 
-  - Phrase: Atriku meqqer
-    Translation: Le t-shirt est grand
+  - Phrase: Imeddukal tessen tabyirt
+    Translation: Le couple boit de la bière
 
   - Phrase: Timeḥremt meẓẓiyet
-    Translation: La jupe est petite
+    Translation: "{la jupe}" est petite
 
 
 Mini-dictionary:
@@ -102,6 +102,22 @@ Mini-dictionary:
     - de: déterminant
     - l: déterminant
     - "{l'eau}": aman
+    - "{de l'eau}": aman
+    - Cecilia: Cecilia (name)
+    - boit
+      - ttess
+      - itess
+    - boivent: tessen
+    - le: déterminant
+    - bière: tabyirt
+    - "{de la bière}": tabyirt
+    - bière: tabyirt
+    - "{le couple}": imeddukal
+    - couple: imeddukal
+    - boit: 
+      - itess
+      - ttess
+    - boivent: tessen
 
     - je: 
       - nekk
@@ -148,6 +164,17 @@ Mini-dictionary:
     - aman: 
       - eau
       - "{l'eau}"
+      - "{de l'eau}"
+    - tabyirt: 
+      - bière
+      - "{la bière}"
+      - "{de la bière}"
+    - imeddukal: 
+      - couple
+      - "{le couple}"
+    - tessen: boivent
+    - ttess: boit
+    - itess: boit
     
     - isebbaḍen: 
       - chaussures
