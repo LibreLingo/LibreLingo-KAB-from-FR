@@ -108,7 +108,7 @@ New words:
       - glasses2
       - glasses3
 
-  - Word: imejjayen
+  - Word: imsujiyen
     Translation: les docteurs
     Images:
       - doctor1
@@ -131,7 +131,7 @@ Phrases:
   - Phrase: Nwaḍer meqrit 
     Translation: Les lunettes sont grandes 
 
-  - Phrase: Ibṛiken d imejjayen 
+  - Phrase: Ibṛiken d imsujiyen 
     Translation: Les canards sont docteurs
     
   - Phrase: Tisedray d tiẓerwalin
@@ -159,7 +159,7 @@ Mini-dictionary:
       - meqrit
       - timeqranin
     - canards: ibṛiken
-    - docteurs: imejjayen
+    - docteurs: imsujiyen
     
 
   Kabyle:
@@ -179,7 +179,7 @@ Mini-dictionary:
       - grandes
       - grands
     - ibṛiken: canards
-    - imejjayen: docteurs
+    - imsujiyen: docteurs
     - tiẓerwalin: bleues
     - tizwal-uṛumi: fraises
     
