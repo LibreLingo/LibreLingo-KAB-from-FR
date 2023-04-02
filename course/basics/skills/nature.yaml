@@ -106,14 +106,14 @@ New words:
       - beach3
 
 Phrases:
-  - Phrase: Inig ameggaz !
-    Translation: Bon voyage ! 
+  - Phrase: Inig ameggaz
+    Translation: Bon voyage! 
         
-  - Phrase: “{Ad nruḥ}” ɣer teftist!
-    Translation: Nous allons à la plage !
+  - Phrase: “{Ad nruḥ}” ɣer teftist
+    Translation: Nous allons à la plage
 
-  - Phrase: Ilel neɣ adrar ?
-    Translation: Mer ou montagne ?
+  - Phrase: Ilel neɣ adrar 
+    Translation: Mer ou montagne
 
   - Phrase: Asif yetturug ɣer yilel
     Translation: La rivière coûle vers la mer
@@ -132,30 +132,30 @@ Mini-dictionalry:
       - yinig
     - "{voyage!}": inig
     - nous: 
-        - nekni
-        - nekkenti
+      - nekni
+      - nekkenti
     - irons: “{Ad nruḥ}” 
     - à: ɣer
     - plage: 
-        - taftist
-        - teftist
+      - taftist
+      - teftist
     - mer: 
-        - ilel
-        - yilel
+      - ilel
+      - yilel
     - ou: neɣ
     - montagne: 
-        - adrar
-        - udrar
+      - adrar
+      - udrar
     - rivière: 
-        - asif
-        - wasif
+      - asif
+      - wasif
     - coûle: yetturug
     - vers: ɣer
     - la: déterminent
     - le: déterminent
     - soleil: 
-        - itij
-        - yitij
+      - itij
+      - yitij
     - monte: yettali
     - dans: deg
     - ciel: 
