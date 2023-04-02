@@ -79,6 +79,8 @@ Phrases:
   - Phrase: Cecilia ttess aman
     Translation: Cecilia boit "{de l'eau}"
 
+  - Phrase: Imeddukal tessen tabyirt
+    Translation: Les amis boivent de la bière
 
 Mini-dictionary:
   French:
@@ -93,13 +95,15 @@ Mini-dictionary:
     - plaît: yeɛjeb
     - "{l'eau}": aman
     - "{de l'eau}": aman
-    - de: article
+    - de: déterminant
     - Cecilia: Cecilia (name)
     - boit:
       - ttess
       - itess
     - boivent: tessen
     - le: déterminant
+    - la: déterminant
+    - les: déterminant
     - bière: tabyirt
     - "{de la bière}": tabyirt
     - bière: tabyirt
@@ -114,7 +118,7 @@ Mini-dictionary:
       - tetteɣ
     - "{des pâtes}": irektiyen
     - Yanis: Yanis (nom)
-    - du: article 
+    - du: déterminant 
     - pain: aɣrum     
     - plaît: yeɛjeb
     
