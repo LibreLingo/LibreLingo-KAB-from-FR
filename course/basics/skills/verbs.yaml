@@ -60,6 +60,13 @@ Phrases:
     Also accepted:
       - Toi tu bois du lait
 
+  - Phrase: Maria ttess tabyirt
+    Translation: Maria bois de la bière
+
+  - Phrase: Agmar itess aman
+    Alternative versions:
+      - Aɛudiw itess aman
+    Translation: Le cheval boit de "{l’eau}"
 
 
 Mini-dictionary:
@@ -111,7 +118,11 @@ Mini-dictionary:
       - tetteɣ
     - bière: tabyirt
     - lait: ayefki    
-    
+    - Maria: Maria (name)
+    - boit: 
+      - itess
+      - ttess
+     - "{l’eau}": aman   
 
   Kabyle:
     - nekk:
@@ -159,4 +170,8 @@ Mini-dictionary:
     - tabyirt: bière  
     - ttesseḍ: bois    
     - ayefki: lait
+    - Maria: Maria (name)
+    - ttess: boit
+    - itess: boit   
+    - aman: "{l’eau}"
     
