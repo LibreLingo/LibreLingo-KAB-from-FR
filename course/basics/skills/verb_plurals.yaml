@@ -5,99 +5,190 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: Nosotras comemos plátanos
+  - Phrase: Nekni ntett seksu
     Alternative versions:
-      - Nosotras comemos plátanos
-      - Nosotros comemos plátanos
-      - Comemos plátanos
-      - Nosotras comemos bananas
-      - Nosotros comemos bananas
-      - Comemos bananas
-    Translation: We eat bananas
+      - Nekkenti ntett seksu
+      - Ntett seksu      
+    Translation: Nous mangeons du couscous
 
-  - Phrase: Vosotras coméis más
+  - Phrase: Kunwi ttettem aḍil
     Alternative versions:
-      - Vosotras coméis más
-      - Vosotros coméis más
-      - Coméis más
-    Translation: You eat more
+      - Ttettem aḍil	
+    Translation: Vous mangez du raisin
 
-
-  - Phrase: Nosotras bebemos mucho
+- Phrase: Kunnemti ttettemt tibexsisin
     Alternative versions:
-      - Nosotras bebemos mucho
-      - Nosotros bebemos mucho
-      - Bebemos mucho
-    Translation: We drink a lot
+      - Ttettemt tibexsisin
+    Translation: Vous mangez des figues
 
-  - Phrase: Vosotras bebéis agua
+  - Phrase: Nutenti tettent tiẓuṛin
     Alternative versions:
-      - Vosotros bebéis agua
-      - Bebéis agua
-    Translation: You drink water
+     - Tettent tiẓuṛin	
+    Translation: Elles mangent du raisin
 
-  - Phrase: Ellas beben cerveza
+  - Phrase: Nutni tetten tiɣrifin
     Alternative versions:
-      - Ellos beben cerveza
-      - Beben cerveza
-    Translation: They drink beer
+     - Tetten tiɣrifin	
+    Translation: Ils mangent des crêpes 
 
-  - Phrase: Nosotros somos caballos
+  - Phrase: Nekkenti ntess lqahwa
     Alternative versions:
-      - Nosotras somos caballos
-      - Somos caballos
-    Translation: We are horses
+      - Nekni ntess lqahwa
+      - Ntess lqahwa
+    Translation: Nous buvons du café
 
-  - Phrase: Vosotros sois gatos
-    Alternative versions:
-      - Vosotras sois gatos
-      - Sois gatos
-    Translation: You are cats
+  - Phrase: Kunnemti ttessemt aman
+    Alternative versions:      
+      - Ttessemt aman
+    Translation: Vous buvez de l’eau
 
-  - Phrase: Ellos son perros
+- Phrase: Kunwi ttessem llatay
+    Alternative versions:      
+      - Ttessem llatay
+    Translation: Vous buvez du thé
+
+  - Phrase: Nutenti tessent ayefki
     Alternative versions:
-      - Son perros
-    Translation: They are dogs
+      - Tessent ayefki
+    Translation: Elles boivent du lait
+
+  - Phrase: Nutni tessen tabyirt
+    Alternative versions:
+      - Tessen tabyirt
+    Translation: Ils boivent de la bière
+
+  - Phrase: Nekni nrekkeb iɛudiwen 
+    Alternative versions:
+      - Nekkenti nrekkeb iɛudiwen
+      - Nrekkeb iɛudiwen
+    Translation: Nous montons les chevaux
+
+  - Phrase: Kunnemti tetturaremt d yimcac 
+    Alternative versions:
+      - Tetturaremt d yimcac
+    Translation: Vous jouez avec les chats
+
+- Phrase: Kunwi tettazzalem d yiqjan 
+    Alternative versions:
+      - Tettazzalem d yiqjan
+    Translation: Vous courrez avec les chiens
+
+  - Phrase: Nutenti zzuɣurent taqejjirt 
+    Alternative versions:
+      - Zzuɣurent taqejjirt
+    Translation: Elles trainent la patte
+
+- Phrase: Nutni nehhren aɣyul 
+    Alternative versions:
+      - Nehhren aɣyul
+    Translation: Ils conduisent l’âne 
+
 
 
 
 
 Mini-dictionary:
   French:
-    - we:
-      - nosotros
-      - nosotras
-    - bananas:
-      - bananas
-      - plátanos
-    - more: más
-    - lot: mucho
-    - they:
-      - ellos
-      - ellas
-    - horses: caballos
-    - dogs: perros
+    - nous: nekni
+    - mangeons: ntett
+    - du: déterminant
+    - couscous: seksu
+    - vous:
+      - kunwi
+      - kunnemti
+    - mangez:
+      - ttettem
+      - ttettemt
+    - raisin:
+      - aḍil
+      - tiẓuṛin
+    - des: déterminant
+    - figues: tibexsisin
+    - elles: nutenti
+    - mangent:
+      - tetten
+      - tettent
+    - ils: nutni
+    - crêpes: tiɣrifin
+    - buvons: ntess
+    - café: lqahwa
+    - buvez:
+      - ttessemt
+      - ttessem
+    - de: déterminant
+    - l’eau: aman
+    - thé: llatay
+    - boivent: 
+      - tessen
+      - tessent
+    - lait: ayefki
+    - la: déterminant
+    - bière: tabyirt
+    - montons: nrekkeb
+    - les: déterminant
+    - chevaux: 
+      - iɛudiwen
+      - yiɛudiwen
+    - jouez:
+      - tetturarem
+      - tetturaremt
+    - avec: 
+      - d
+      - s
+    - chats: 
+      - imcac
+      - yimcac
+    - courrez:
+      - tettazzalem
+      - tettazzalemt
+    - chiens:
+      - iqjan
+      - yiqjan
+    - trainent:
+      - zzɣuren
+      - zzɣurent
+    - patte: taqejjirt
+    - conduisent:
+      - nehhren
+      - nehhrent
+    - l'âne: aɣyul
 
   Kabyle:
-    - nosotras:
-      - we
-      - us
-    - nosotros:
-      - we
-      - us
-    - comemos: we eat
-    - plátanos: bananas
-    - vosotras: you (plural)
-    - vosotros: you (plural)
-    - coméis: you eat
-    - más: more
-    - bebemos: we drink
-    - bebéis: you drink
-    - mucho: a lot
-    - ellas: they
-    - ellos: they
-    - beben: drink
-    - somos: we are
-    - caballos: horses
-    - sois: you are
-    - perros: dogs
+    - nekni: nous
+    - ntett: mangeons
+    - seksu: couscous
+    - nekkenti: nous
+    - kunwi: vous
+    - ttettem: mangez
+    - aḍil: raisin
+    - kunnemti: vous
+    - ttettemt: mangez
+    - tibexsisin: figues    
+    - nutenti: elles
+    - tettent: mangent
+    - tiẓuṛin: raisin
+    - nutni: ils
+    - tetten: mangent
+    - tiɣrifin: crêpes
+    - ntess: buvons
+    - lqahwa: café
+    - ttessemt: buvez
+    - aman: l'eau
+    - ttessem: buvez
+    - llatay: thé
+    - tessent: boivent
+    - ayefki: lait
+    - tessen: boivent
+    - tabyirt: bière
+    - nrekkeb: montons
+    - iɛudiwen: chevaux
+    - tetturaremt: jouez
+    - d: avec
+    - yimcac: chats
+    - tettazzalem: courrez
+    - yiqjan: chiens 
+    - zzuɣurent: trainent
+    - taqejjirt: patte
+    - nehhṛen: conduisent
+    - aɣyul: l'âne
+  
