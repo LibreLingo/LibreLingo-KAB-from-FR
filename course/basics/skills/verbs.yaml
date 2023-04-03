@@ -28,6 +28,22 @@ Phrases:
       - Tetteɣ aɣrum
     Translation: Je mange du pain
 
+  - Phrase: Kečč ttetteḍ irektiyen
+    Alternative versions:
+      - Ttetteḍ irektiyen 
+      - kemm ttetteḍ irektiyen
+    Translation: Tu manges les pâtes
+
+  - Phrase: Nettat ttett pizza
+    Alternative versions:
+      - Ttett pizza
+    Translation: Elle mange de la pizza
+
+  - Phrase: Netta itett aɣrum
+    Alternative versions:
+      - Itett aɣrum
+    Translation: Il mange du pain
+
 
 Mini-dictionary:
   French:
@@ -55,13 +71,25 @@ Mini-dictionary:
       - agmar
       - aɛudiw    
     - galope: iderreɛ
-    - mange: tetteɣ
+    - mange: 
+      - tetteɣ
+      - ttett
+      - itett
     - pain: aɣrum
     - du: 
       - déterminant
       - n
-
-
+    - manges: ttetteḍ
+    - pâtes: irektiyen
+    - les: déterminant    
+    - elle: nettat
+    - de: 
+      - n
+      - déterminant
+    - la: déterminant
+    - pizza: pizza   
+    - il: netta   
+    
 
   Kabyle:
     - nekk:
@@ -90,7 +118,12 @@ Mini-dictionary:
     - iderreɛ: galope
     - tetteɣ: mange   
     - aɣrum: pain
-    
-
-
-
+    - ttetteḍ: manges
+    - irektiyen: pâtes     
+    - nettat: elle
+    - ttett: mange    
+    - pizza: pizza
+    - netta:
+      - il 
+      - lui    
+    - itett: mange    
