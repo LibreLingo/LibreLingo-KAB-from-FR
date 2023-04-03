@@ -10,6 +10,13 @@ Phrases:
       - Nekkini d amcic
     Translation: Je suis un chat
 
+  - Phrase: Kemm tdesseḍ
+    Alternative versions:
+      - Kemmini tdesseḍ
+      - Tdesseḍ
+    Translation: Tu ris
+    Also accepted:
+      - Toi tu ris
 
 
 Mini-dictionary:
@@ -20,6 +27,19 @@ Mini-dictionary:
     - un: yiwen
     - chat: amcic
     - suis: être 
+    - toi:
+      - kečč
+      - keččini
+      - kemm
+      - kemmini      
+    - tu:
+      - kečč
+      - keččini
+      - kemm
+      - kemmini
+    - ris: 
+      - desseɣ
+      - tdesseḍ
 
 
 
@@ -30,11 +50,21 @@ Mini-dictionary:
     - nekkini:
       - je 
       - moi    
-
     - amcic: chat
-
     - d: déterminant 
-
+    - kemm: 
+      - tu
+      - toi
+    - kemmini: 
+      - tu
+      - toi
+    - kečč:
+      - tu
+      - toi    
+    - keččini:
+      - tu
+      - toi
+    - tdesseḍ: ris
     
     
     
