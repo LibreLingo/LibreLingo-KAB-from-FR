@@ -60,8 +60,8 @@ Phrases:
     Also accepted:
       - Toi tu bois du lait
 
-  - Phrase: Maria ttess tabyirt
-    Translation: Maria bois de la bière
+  - Phrase: Maria ttess lqahwa
+    Translation: Maria bois du café
 
   - Phrase: Agmar itess aman
     Alternative versions:
@@ -123,7 +123,8 @@ Mini-dictionary:
       - itess
       - ttess
     - "{l’eau}": aman   
-
+    - café: lqahwa
+    
   Kabyle:
     - nekk:
       - je 
@@ -171,6 +172,7 @@ Mini-dictionary:
     - ttesseḍ: bois    
     - ayefki: lait
     - Maria: Maria (name)
+    - lqahwa: café
     - ttess: boit
     - itess: boit   
     - aman: "{l’eau}"
