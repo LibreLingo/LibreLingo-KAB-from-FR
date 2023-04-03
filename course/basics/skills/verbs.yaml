@@ -18,6 +18,16 @@ Phrases:
     Also accepted:
       - Toi tu ris
 
+  - Phrase: Agmar iderreɛ
+     Alternative versions:
+      - Aɛudiw iderreɛ
+    Translation: Le cheval galope
+
+  - Phrase: Nekk tetteɣ aɣrum
+    Alternative versions:
+      - Tetteɣ aɣrum
+    Translation: Je mange du pain
+
 
 Mini-dictionary:
   French:
@@ -40,6 +50,16 @@ Mini-dictionary:
     - ris: 
       - desseɣ
       - tdesseḍ
+    - le: déterminant
+    - cheval: 
+      - agmar
+      - aɛudiw    
+    - galope: iderreɛ
+    - mange: tetteɣ
+    - pain: aɣrum
+    - du: 
+      - déterminant
+      - n
 
 
 
@@ -65,9 +85,11 @@ Mini-dictionary:
       - tu
       - toi
     - tdesseḍ: ris
-    
-    
-    
+    - agmar: cheval
+    - aɛudiw: cheval
+    - iderreɛ: galope
+    - tetteɣ: mange   
+    - aɣrum: pain
     
 
 
