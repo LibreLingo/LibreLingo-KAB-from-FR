@@ -53,7 +53,7 @@ New words:
       - doctor3
 
   - Word: ifellaḥen
-    Translation: farmers
+    Translation: fermiers
     Images:
       - farmer1
       - farmer2
@@ -73,8 +73,8 @@ Phrases:
   - Phrase: Aqeddac ittmahal
     Translation: Le valet travaille 
 
-  - Phrase: Isexsayen ttawḍen
-    Translation: Les pompiers arrivent
+  - Phrase: Isexsayen wwḍen ɣer tmes
+    Translation: Les pompiers sont arrivés au feu
 
   - Phrase: Afellaḥ yettwali iɣersiwen 
     Translation: Le fermier voit les animaux
@@ -96,7 +96,11 @@ Mini-dictionary:
     - aqeddac: valet
     - ittmahal: travaille
     - isexsayen: pompiers
-    - ttawḍen: arrivent
+    - wwḍen: arrivés
+    - ɣer: 
+      - au
+      - vers
+      - à
     - afellaḥ: fermier
     - yettwali: voit
     - iɣersiwen: animaux
@@ -124,9 +128,10 @@ Mini-dictionary:
       - ittmahil
       - tettmahil
     - pompiers: isexsayen
-    - arrivent:
-      - ttawḍen
-      - ttawḍent
+    - arrivés:
+      - wwḍen
+      - wwḍent
+    - au: ɣer
     - fermier: afellaḥ 
     - voit:
       - ittwali
