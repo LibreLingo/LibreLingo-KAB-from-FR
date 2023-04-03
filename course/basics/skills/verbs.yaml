@@ -14,102 +14,27 @@ Phrases:
 
 Mini-dictionary:
   French:
-    - elle: nettat
-    - il: netta
     - je: 
       - nekk
       - nekkini
-    - le: déterminant
-    - Maria: Maria (name)
-    - moi: 
-      - nekk
-      - nekkini      
-    - toi:
-      - kečč
-      - keččini
-      - kemm
-      - kemmini      
-    - tu:
-      - kečč
-      - keččini
-      - kemm
-      - kemmini
-    - bière: tabyirt
-    - bois: 
-      - ttesseḍ
-      - tetteɣ
-    - boit: 
-      - itess
-      - ttess
-    - chat: amcic
-    - cheval: 
-      - agmar
-      - aɛudiw    
-    - de: 
-      - n
-      - déterminant
-    - du: 
-      - déterminant
-      - n
-    - galope:iderreɛ
-    - la: déterminant
-    - lait: ayefki
-    - les: déterminant
-    - "{l’eau}": aman
-    - mange: tetteɣ
-    - pain: aɣrum
-    - pizza: pizza
-    - pâtes: irektiyen
-    - ris: 
-      - desseɣ
-      - tdesseḍ
-    - suis: être 
     - un: yiwen
+    - chat: amcic
+    - suis: être 
+
+
 
   Kabyle:
-    - agmar: cheval
-    - aɛudiw: cheval
-    - kemm: 
-      - tu
-      - toi
-    - kemmini: 
-      - tu
-      - toi
-    - kečč:
-      - tu
-      - toi    
-    - keččini:
-      - tu
-      - toi    
-    - Maria: Maria (name)
     - nekk:
       - je 
       - moi
     - nekkini:
       - je 
       - moi    
-    - netta:
-      - il 
-      - lui    
-    - nettat: elle
-    - tesseɣ: bois
-    - tdesseḍ: bois
-    - tetteɣ: mange
-    - ttesseḍ: bois
-    - ttett: mange
-    - ttetteḍ: manges
-    - aman: "{l’eau}"
+
     - amcic: chat
-    - ayefki: lait
-    - aɣrum: pain
+
     - d: déterminant 
-    - iderreɛ: galope
-    - irektiyen: pâtes 
-    - itess: boit
-    - itett: mange
-    - pizza: pizza
-    - tabyirt: bière    
-    - ttess: boit
+
     
     
     
