@@ -8,7 +8,7 @@ Skills:
   - nature.yaml
   - verbs.yaml
   - plurals.yaml
-  # - verb_plurals.yaml
+  - verb_plurals.yaml
   - professions.yaml
   
   
