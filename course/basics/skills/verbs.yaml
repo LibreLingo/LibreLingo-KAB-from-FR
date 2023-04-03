@@ -66,7 +66,7 @@ Phrases:
   - Phrase: Agmar itess aman
     Alternative versions:
       - Aɛudiw itess aman
-    Translation: Le cheval boit de l’eau
+    Translation: Le cheval boit de "{l’eau}"
 
 Mini-dictionary:
   French:
@@ -111,7 +111,7 @@ Mini-dictionary:
     - la: déterminant
     - lait: ayefki
     - les: déterminant
-    - l’eau:
+    - "{l’eau}": aman
     - mange: tetteɣ
     - pain: aɣrum
     - pizza: pizza
@@ -154,7 +154,7 @@ Mini-dictionary:
     - ttesseḍ: bois
     - ttett: mange
     - ttetteḍ: manges
-    - aman: eau 
+    - aman: "{l’eau}"
     - amcic: chat
     - ayefki: lait
     - aɣrum: pain
