@@ -44,6 +44,23 @@ Phrases:
       - Itett aɣrum
     Translation: Il mange du pain
 
+  - Phrase: Nekk tesseɣ tabyirt
+    Alternative versions:
+      - Nekkini tesseɣ tabyirt
+      - Tesseɣ tabyirt
+    Translation: Je bois de la bière
+    Also accepted:
+      - Moi je bois de la bière
+
+  - Phrase: Kemm ttesseḍ ayefki
+    Alternative versions:
+      - Kemmini ttesseḍ ayefki
+      - Ttesseḍ ayefki    
+    Translation: Tu bois du lait
+    Also accepted:
+      - Toi tu bois du lait
+
+
 
 Mini-dictionary:
   French:
@@ -88,7 +105,12 @@ Mini-dictionary:
       - déterminant
     - la: déterminant
     - pizza: pizza   
-    - il: netta   
+    - il: netta    
+    - bois: 
+      - ttesseḍ
+      - tetteɣ
+    - bière: tabyirt
+    - lait: ayefki    
     
 
   Kabyle:
@@ -126,4 +148,15 @@ Mini-dictionary:
     - netta:
       - il 
       - lui    
-    - itett: mange    
+    - itett: mange  
+    - nekk:
+      - je 
+      - moi
+    - nekkini:
+      - je 
+      - moi    
+    - tesseɣ: bois
+    - tabyirt: bière  
+    - ttesseḍ: bois    
+    - ayefki: lait
+    
