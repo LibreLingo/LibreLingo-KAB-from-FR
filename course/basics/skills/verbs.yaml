@@ -111,11 +111,11 @@ Mini-dictionary:
     - la: déterminant
     - lait: ayefki
     - les: déterminant
-    # - l’eau:
+    - l’eau:
     - mange: tetteɣ
-    # - pain:
-    # - pizza:
-    # - pâtes:
+    - pain: aɣrum
+    - pizza: pizza
+    - pâtes: irektiyen
     - ris: 
       - desseɣ
       - tdesseḍ
@@ -123,8 +123,8 @@ Mini-dictionary:
     - un: yiwen
 
   Kabyle:
-    #- agmar:
-    #- aɛudiw:
+    - agmar: cheval
+    - aɛudiw: cheval
     - kemm: 
       - tu
       - toi
@@ -154,17 +154,17 @@ Mini-dictionary:
     - ttesseḍ: bois
     - ttett: mange
     - ttetteḍ: manges
-    #- aman: 
-    #- amcic:
+    - aman: eau 
+    - amcic: chat
     - ayefki: lait
-    #- aɣrum:
-    #- d: 
+    - aɣrum: pain
+    - d: déterminant 
     - iderreɛ: galope
-    #- irektiyen: 
+    - irektiyen: pâtes 
     - itess: boit
     - itett: mange
-    #- pizza:
-    #- tabyirt:    
+    - pizza: pizza
+    - tabyirt: bière    
     - ttess: boit
     
     
