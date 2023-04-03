@@ -10,10 +10,10 @@ Phrases:
       - Nekkini d amcic
     Translation: Je suis un chat
 
-  - Phrase: Kemm tettaḍṣaḍ
+  - Phrase: Kemm tdesseḍ
     Alternative versions:
-      - Kemmini tettaḍṣaḍ
-      - Tettaḍṣaḍ
+      - Kemmini tdesseḍ
+      - Tdesseḍ
     Translation: Tu ris
     Also accepted:
       - Toi tu ris
@@ -31,7 +31,8 @@ Phrases:
   - Phrase: Kečč ttetteḍ irektiyen
     Alternative versions:
       - Ttetteḍ irektiyen
-    Translation: Tu mange les pâtes
+      - Keččini ttetteḍ irektiyen
+    Translation: Tu manges les pâtes
 
   - Phrase: Nettat ttett pizza
     Alternative versions:
@@ -53,7 +54,7 @@ Phrases:
 
   - Phrase: Kemm ttesseḍ ayefki
     Alternative versions:
-      - Kemmini ttesseɣ ayefki
+      - Kemmini ttesseḍ ayefki
       - Ttesseḍ ayefki    
     Translation: Tu bois du lait
     Also accepted:
@@ -67,9 +68,108 @@ Phrases:
       - Aɛudiw itess aman
     Translation: Le cheval boit de l’eau
 
+Mini-dictionary:
+  French:
+    - elle: nettat
+    - il: netta
+    - je: 
+      - nekk
+      - nekkini
+    - le: déterminant
+    - Maria: Maria (name)
+    - moi: 
+      - nekk
+      - nekkini      
+    - toi:
+      - kečč
+      - keččini
+      - kemm
+      - kemmini      
+    - tu:
+      - kečč
+      - keččini
+      - kemm
+      - kemmini
+    - bière: tabyirt
+    - bois: 
+      - ttesseḍ
+      - tetteɣ
+    - boit: 
+      - itess
+      - ttess
+    - chat: amcic
+    - cheval: 
+      - agmar
+      - aɛudiw    
+    - de: 
+      - n
+      - déterminant
+    - du: 
+      - déterminant
+      - n
+    - galope:iderreɛ
+    - la: déterminant
+    - lait: ayefki
+    - les: déterminant
+    # - l’eau:
+    - mange: tetteɣ
+    # - pain:
+    # - pizza:
+    # - pâtes:
+    - ris: 
+      - desseɣ
+      - tdesseḍ
+    - suis: être 
+    - un: yiwen
 
-
-
+  Kabyle:
+    #- agmar:
+    #- aɛudiw:
+    - kemm: 
+      - tu
+      - toi
+    - kemmini: 
+      - tu
+      - toi
+    - kečč:
+      - tu
+      - toi    
+    - keččini:
+      - tu
+      - toi    
+    - Maria: Maria (name)
+    - nekk:
+      - je 
+      - moi
+    - nekkini:
+      - je 
+      - moi    
+    - netta:
+      - il 
+      - lui    
+    - nettat: elle
+    - tesseɣ: bois
+    - tdesseḍ: bois
+    - tetteɣ: mange
+    - ttesseḍ: bois
+    - ttett: mange
+    - ttetteḍ: manges
+    #- aman: 
+    #- amcic:
+    - ayefki: lait
+    #- aɣrum:
+    #- d: 
+    - iderreɛ: galope
+    #- irektiyen: 
+    - itess: boit
+    - itett: mange
+    #- pizza:
+    #- tabyirt:    
+    - ttess: boit
+    
+    
+    
+    
 
 
 
