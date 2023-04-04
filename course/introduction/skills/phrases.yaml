@@ -10,11 +10,14 @@ Phrases:
     
   - Phrase: Azul, nekk d Cecilia.
     Translation: Bonjour, je suis Cecilia.
-
+    
+  - Phrase: Isem-ik?
+    Translation: Quel est ton nom?
+    
   - Phrase: Isem-iw Ali
     Translation: Mon nom est Ali
     Alternative translations:
-      - On m'appelle Ali
+      - On "{m'appelle}" Ali
       
   - Phrase: Amek tettiliḍ?
     Translation: Comment vas-tu?
@@ -27,70 +30,69 @@ Phrases:
     Alternative translations:
       - Heureuse de te connaitre
 
+  - Phrase: Ferḥeɣ imi kem-sneɣ
+    Translation: Heureux de te connaitre
+    Alternative translations:
+      - Heureuse de te connaitre
+
   - Phrase: Ar tufat!
     Translation: Au revoir!
-    
-  - Phrase: Isem-ik?
-    Translation: Quel est ton nom?
-    
-  - Phrase: Azul!
-    Translation: Bon soir!
-    
 
+  - Phrase: Ass ameggaz!
+    Translation: Bonne journée!
+    
   - Phrase: Iḍ ameggaz, Ali!
     Translation: Bonne nuit, Ali!
 
 Mini-dictionary:
-  Fraçais:
-    - matin:
-      - tanzagt
-      - ṣbaḥ
-    - mon:
-      - inu
+  French:
+    - bonjour: azul
+    - quel: dacu
+    - ton: inek
     - nom: isem
-    - quel:
-      - dacu
-      - acu
-    - bon:
-      - ilha
-      - telha
-      - igerrez
-      - tgerrez
-    - rencontrer:
-      - issin
-      - mlil
-    - voir:
-      - ẓer
-      - ẓriɣ
-      - yeẓra
-      - teẓra
-      - neẓra
-    - plus-tard:
-      - ticki
-      - umbeɛd
-      - mbeɛd
-    - après midi: tameddit
+    - mon: inu
+    - Ali: Ali (name)
+    - on: déterminant
+    - "{m'appelle}": ssawalen-iyi
+    - comment: amek
+    - vas-tu: tettiliḍ
+    - dacu: quoi
+    - neuf: nouveau
+    - heureux: ferḥeɣ
+    - te: déterminant
+    - connaitre: issin
+    - heureuse: ferḥeɣ
+    - au: ar
+    - revoir: tufat
+    - bonne: tameggazt
+    - journée: ass
     - nuit: iḍ
+    
+    
 
   Kabyle:
-    - lhan: bons
-    - ussan: jours
-    - ssawaleɣ: j'appelle
-    - acu: quoi
-    - ẓid:
-      - bon
-      - goûteux
-      - sucré
-    - ar: jusqu'à
-    - umbeɛd:
-      - après
-      - plus-tard
-    - amek:
-      - comment
-      - pardon? quoi?
-    - kečč: tu
-    - siwel: tu appelles appelle
+    - azul: bonjour
+    - d: déterminant
+    - Cecilia: Cecilia (name)
+    - isem-ik: nom
+    - isem-iw: nom
+    - Ali: Ali (name)
+    - amek: comment
+    - tettiliḍ: vas
+    - dacu: quoi
+    - akka: neuf
+    - ferḥeɣ:
+      - heureux
+      - heureuse
+    - imi: parceque
+    - k-sneɣ: connais
+    - kem-sneɣ: connais
+    - ar: au
+    - tufat: revoir 
+    - ass: journée
     - ameggaz: bon
-    - tameddit: après-midi
     - iḍ: nuit
+    
+    
+    
 
