@@ -202,6 +202,9 @@ Mini-dictionary:
     - lejnan: 
       - parque
       - jardin
+    - lejnanat: 
+      - parques
+      - jardins
     - zegzaw: vert
     - hraw: large
     - aɣerda: 
@@ -277,6 +280,7 @@ Mini-dictionary:
       - d
       - u
     - parque: lejnan
+    - parques: lejnanat
     - vert: zegzaw
     - large: hraw
     - souris: aɣerda
