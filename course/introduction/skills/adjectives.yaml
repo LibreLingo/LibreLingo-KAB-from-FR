@@ -1,5 +1,5 @@
 Skill:
-  Name: Adjectives
+  Name: Adjectifs
   Id: 15
 
 New words:
@@ -17,29 +17,29 @@ New words:
       - elephant2
       - elephant3
 
-  - Word: tabḥirt
-    Translation: jardin
+  - Word: lejnan
+    Translation: parque
     Images:
       - park1
       - park2
       - park3
 
-  - Word: aɣerda
-    Translation: la souris
+  - Word: iɣerdayen
+    Translation: les souris
     Images:
       - mouse1
       - mouse2
       - mouse3
 
-  - Word:  lfil
-    Translation: l'éléphant
+  - Word:  lfilat
+    Translation: les éléphants
     Images:
       - elephant1
       - elephant2
       - elephant3
 
-  - Word: tabḥirt
-    Translation: le jardin
+  - Word: lejnanat
+    Translation: les parques
     Images:
       - park1
       - park2
@@ -47,157 +47,249 @@ New words:
 
 Phrases:
   - Phrase: Cecilia ɣezzifet
-    Translation: Cecilia est longue
+    Alternative versions:
+      - Cecilia d taɣezfant
+    Translation: Cecilia est grande
 
   - Phrase: Idir ɣezzif
+    Alternative versions:
+      - Idir d aɣezfan
     Translation: Idir est long
 
   - Phrase: Nekk meqreɣ
+    Alternative versions:
+      - Nekk d ameqran
     Translation: Je suis vieux
 
-  - Phrase: Nettat maqret
+  - Phrase: Tameṭṭut meqret
     Alternative versions:
-      - d tamɣart
-      - d amɣar
-    Translation: Elle est vieille
+      - Tameṭṭut d tamɣart
+      - Tameṭṭut d tameqrant
+    Translation: La femme est vieille
 
-  - Phrase: Netta meqqer
+  - Phrase: Argaz meqqer
     Alternative versions:
-      - d tamɣart
-      - d amɣar
-    Translation: Il est vieux
+      - Argaz d amɣar
+    Translation: L'homme est vieux
 
   - Phrase: Nekk zureɣ
     Alternative versions:
-      - zureɣ
+      - Nekk d azuran
     Translation: Je suis gros
-    Alternative translations:
       
   - Phrase: Nettat zuret
     Alternative versions:
-      - d tazurant
+      - Nettat d tazurant
     Translation: Elle est grosse
-    Alternative translations:
-      
 
-  - Phrase: Nekkni zurit
+  - Phrase: Nekni zurit
     Alternative versions:
-      - d izuranen
+      - Nekni d izuranen
     Translation: Nous sommes gros
-    Alternative translations:
-      - Nous sommes gros
 
-  - Phrase: Nutenti zurit
+  - Phrase: Tullas zurit
     Alternative versions:
-      - d tizuranin
-    Translation: Elles sont grosses
+      - Tullas d tizuranin
+    Translation: Les filles sont grosses
 
-  - Phrase: Nutni meẓẓiyit
+  - Phrase: Iqjan meẓẓiyit
     Alternative versions:
-      - Nutni mectuḥit
-    Translation: Ils sont petits
+      - Iqjan mectuḥit
+      - Iqjan d imeẓianen
+      - Iqjan d imectuḥen
+    Translation: Les chiens sont petits
     Alternative translations:
-      - Ils sont petits
-
-  - Phrase: Imcac meẓẓiyit
-    Translation: Les chats sont petits
+      - Les chiens sont jeunes
+      
+  - Phrase: Imcac mellulit
+    Alternative versions:
+      - Imcac d imellalen
+    Translation: Les chats sont blancs
 
   - Phrase: Imeqranen tetten aksum
     Translation: Les vieux mangent de la viande
     Alternative translations:
-      - Les vieux mangent la viande
+      - Les grands mangent de la viande
 
+  - Phrase: Idir d azubaɣ
+    Translation: Idir est roux
 
-  - Phrase: Idir ur wezzil ara
-    Translation: Idir n'est pas court
-    Alternative translations:
-      - Idir n'est pas court
-
-
-  - Phrase: Aqjun meẓẓi u meqqer
+  - Phrase: Aqjun meẓẓi u wesser
+    Alternative versions:
+      - Aqjun meẓẓi u d amɣar
+      - Aqjun meẓẓi u meqqer
+      - Aqjun meẓẓi u d awessur
     Translation: Le chien est petit et vieux
+
+  - Phrase: Lejnan zegzaw 
+    Translation: Le parque est vert
+
+  - Phrase: Lejnan hraw
+    Translation: Le parque est large
+
+  - Phrase: Aɣerda d azerzaɣ
+    Translation: La souris est grisonnante
     Alternative translations:
-      - Le chien est petit et vieux
-
-
-  - Phrase: Tibḥirt mezziyet 
-    Translation: Le jardin est petit
-    Alternative translations:
-      - Le jardin est petit
-
-  - Phrase: Tibḥirt meqret
-    Translation: Le jardin est grand
-    Alternative translations:
-      - Le jardin est grand
-
-
-  - Phrase: Aɣerda meẓẓi
-    Translation: La souris est petite
-    Alternative translations:
-      - Le rat est petit
+      - Le rat est grisonnant
 
   - Phrase: Lfilat meqrit, iɣerdayen meẓẓiyit 
     Translation: Les éléphants sont grands, les souris sont petites
-    Alternative translations:
-      - Les éléphants sont grands, les souris sont petites
 
   - Phrase: Iɣerdayen imeqranen qeddcen
     Translation: Les grandes souris travaillent
 
+
 Mini-dictionary:
   French:
-    - long:
-      - ɣezzif
-      - ɣezzifet
-      - ɣezzifit
-      - ɣezzifit
-    - vieux:
-      - meqqer
-      - meqret
-      - meqrit  
-      - meqrit
-    - elle:
-      - nettat    
-    - nous:
-      - nekkni
-      - nekenti
-    - ils:
-      - nutni
-    - viande: aksum
-    - court:
-      - wezzil
-      - wezzilet
-      - mectuḥ
-      - mectuḥet
-    - éléphants: lfilat
-    - souris: iɣerdayen
-    - travaille:
-      - qeddceɣ
-      - taeddec
-      - iqeddec
-
-  Kabyle:
+    - Cecilia: Cecilia (name)
     - ɣezzifet: longue
+    - d: déterminant
+    - taɣezfant: longue 
+    - Idir: Idir (name) 
     - ɣezzif: long
-    - meqqer: vieux
-    - meqret: vieille
-    - meẓẓi: petit
-    - amɣar:
+    - aɣezfan: long
+    - nekk: je
+    - meqreɣ: 
+      - grand
       - vieux
-    - tamɣart:
+    - ameqran: 
+      - grand
+      - vieux
+    - tameṭṭut: femme
+    - meqret: 
+      - grande
       - vielle
-    - imɣaren:
+    - tameqrant: 
+      - vielle
+      - grande
+    - tamɣart: vielle
+    - argaz: homme
+    - meqqer: 
+      - grand
       - vieux
-    - timɣarin:
-      - vielles
-    - tetten:
-      - ils mangent      
+    - amɣar: vieux
+    - zureɣ: gros
+    - azuran: gros
+    - nettat: elle
+    - zuret: grosse
+    - tazurant: grosse
+    - nekni: 
+      - je 
+      - moi
+    - zurit: gros
+    - izuranen: gros
+    - tullas: filles
+    - tizuranin: grosses
+    - iqjan: chiens
+    - meẓẓiyit: petits
+    - mectuḥit: petits
+    - imeẓianen: petits
+    - imectuḥen: petits
+    - imcac: chats
+    - mellulit: blancs
+    - imellalen: blancs
+    - imeqranen: 
+      - grands
+      - vieux
+    - tetten: mangent 
     - aksum: viande
-    - "uhu": "non"
-    - wezzil:
-      - court
+    - azubaɣ: roux
+    - aqjun: chien
+    - meẓẓi: petit
+    - u: et
+    - wesser: vieux 
+    - awessur: vieux
+    - lejnan: 
+      - parque
+      - jardin
+    - zegzaw: vert
+    - hraw: large
+    - aɣerda: 
+      - souris
+      - rat
+    - azerzaɣ: grisonnant
     - lfilat: éléphants
-    - iɣerdayen: souris
-    - qeddcen:
-      - ils travaillent      
+    - meqrit: grands
+    - iɣerdayen: 
+      - souris
+      - rats
+    - qeddcen: travaillent
 
+
+  French:
+    - Cecilia: Cecilia (name)
+    - est: être
+    - grande: 
+      - meqret
+      - tameqrant
+    - Idir: Idir (name)
+    - long: 
+      - ɣezzif
+      - aɣezfan
+    - je: 
+      - nekk
+      - nekkini
+    - suis: être
+    - vieux: 
+      - meqqer
+      - ameqran
+    - la: déterminant
+    - femme: tameṭṭut
+    - vieille: tamɣart
+    - l'homme: argaz
+    - gros: 
+      - azuran
+      - zureɣ
+      - zurit
+    - elle: nettat
+    - grosse: 
+      - zuret
+      - tazurant
+    - nous: 
+      - nekni
+      - nekkenti
+    - sommes: être
+    - les: déterminant
+    - filles: tullas
+    - sont: être
+    - grosses:
+       - zurit
+       - tizurani
+    - chiens: iqjan
+    - petits: 
+      - meẓẓiyit
+      - mectuḥit
+      - imectuḥen
+      - imeẓianen
+    - jeunes: petits
+    - chats: imcac
+    - blancs: mellulit
+    - grands: meqrit
+    - mangent: tetten
+    - de: déterminant
+    - la: édterminant
+    - viande: aksum
+    - roux: azubaɣ
+    - le: déterminant
+    - chien: aqjun
+    - petit: meẓẓi
+    - et: 
+      - d
+      - u
+    - parque: lejnan
+    - vert: zegzaw
+    - large: hraw
+    - souris: aɣerda
+    - grisonnante: tazerzaɣt
+    - rat: aɣerda
+    - grisonnant: azerzaɣ
+    - éléphants: lfilat
+    - grands: meqrit
+    - les: déterminant
+    - petites: 
+      - timectuḥin
+      - timeẓẓyanin
+    - grandes:
+      -meqrit
+      - timeqranin
+    - travaillent: qeddcen
