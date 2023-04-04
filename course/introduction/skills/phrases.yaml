@@ -48,6 +48,7 @@ Mini-dictionary:
   French:
     - bonjour: azul
     - quel: dacu
+    - quoi: dacu
     - ton: inek
     - nom: isem
     - mon: inu
@@ -79,7 +80,9 @@ Mini-dictionary:
     - Ali: Ali (name)
     - amek: comment
     - tettiliḍ: vas
-    - dacu: quoi
+    - dacu: 
+      - quoi
+      - quel
     - akka: neuf
     - ferḥeɣ:
       - heureux
