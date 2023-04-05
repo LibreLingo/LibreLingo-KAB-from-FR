@@ -64,6 +64,14 @@ Phrases:
       - Ur itett ara aksum 
     Translation: Il ne mange pas la viande
 
+  - Phrase: Nekk tesseɣ llatay
+    Alternative versions:
+      - Tesseɣ llatay
+    Translation: Je bois du thé
+
+  - Phrase: Cecilia ur ttett ara aslem
+    Translation: Cecilia ne mange pas le poisson
+
 
 Mini-dictionary:
   French:
@@ -85,7 +93,8 @@ Mini-dictionary:
     - viande: 
       - aksum 
       - tacriḥt
-
+      - aslemM poisson
+      - pas: ara
  
 
   Kabyle:
@@ -103,5 +112,8 @@ Mini-dictionary:
     - itett: mange
     - tacriḥt: viande
     - aksum: viande
+    - ttett: mange
+    - aslem: poisson
+    
 
     
