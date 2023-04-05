@@ -72,7 +72,7 @@ Phrases:
   - Phrase: Cecilia ur ttett ara aslem
     Translation: Cecilia ne mange pas le poisson
 
-  - Phrase: Yiwet n tebyirt, ttxil-k!
+  - Phrase: Yiwet n tebyirt, txil-k!
     Translation: Une bière "{s'il vous plait}"!
 
 
@@ -121,4 +121,5 @@ Mini-dictionary:
     - txil-k: "{s'il vous plait}"
     - yiwet: une
     - tebyirt: bière
+    
     
