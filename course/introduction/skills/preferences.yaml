@@ -41,67 +41,124 @@ New words:
 
 
 Phrases:
-  - Phrase: Tterreḍ lqahwa?
+  - Phrase: Tḥemmleḍ lqahwa?
     Alternative versions:
-      -  Tḥemmleḍ lqahwa?
+      -  Tterreḍ lqahwa?
     Translation: Aimes-tu le café?
 
-  - Phrase: Terreɣ irektiyen
+  - Phrase: Ḥemmleɣ irektiyen
     Alternative versions:
-      - Ḥemmleɣ irektiyen
+      - Terreɣ irektiyen
     Translation: J'aime les pâtes 
 
-  - Phrase: Terreɣ tabyirt
+  - Phrase: Ḥemmleɣ tabyirt
     Alternative versions:
-      - Ḥemmleɣ tabyirt 
+      - Terreɣ tabyirt 
     Translation: J'aime la bière
 
-  - Phrase: Ur terreɣ ara ccṛab
+  - Phrase: Ur ḥemmleɣ ara ccṛab
     Alternative versions:
-      - Ur ḥemmleɣ ara ccṛab
-    Translation: Je n'aime pas le vin
+      - Ur terreɣ ara ccṛab 
+    Translation: Je "{n'aime}" pas le vin
 
-  - Phrase: Ur itett ara aksum
+  - Phrase: Ur itett ara tacriḥt
     Alternative versions:
-      - Ur itett ara aksum
+      - Ur itett ara aksum 
     Translation: Il ne mange pas la viande
 
-  - Phrase: Nekk tesseɣ ccṛab
+  - Phrase: Nekk tesseɣ llatay
     Alternative versions:
-      - Tesseɣ ccṛab
-    Translation: Je bois du vin
+      - Tesseɣ llatay
+    Translation: Je bois du thé
 
-  - Phrase: Cecilia ur tett ara irektiyen
-    Translation: Cecilia ne mange pas les pâtes
+  - Phrase: Cecilia ur tett ara iselman
+    Translation: Cecilia ne mange pas le poisson
 
   - Phrase: Yiwet n tebyirt, ttxil-k!
-    Translation: Une bière s'il vous plaît!
+    Translation: Une bière "{s'il vous plait}"!
 
-  - Phrase: Tterreḍ ccṛab?
+  - Phrase: Tḥemmleḍ ccṛab?
     Alternative versions:
-      - Tḥemmleḍ ccṛab?
+      - Tterreḍ ccṛab?
     Translation: Aimes-tu le vin?
 
-  - Phrase: Ur tterreḍ ara aɣrum?
+  - Phrase: "{ur tḥemmleḍ}" ara aɣrum?
     Alternative versions:
-      - Ur tḥemmleḍ ara aɣrum?
-    Translation: Tu n'aimes pas le pain?
+      - Ur tterreḍ ara aɣrum?
+    Translation: Tu "{n'aime}" pas le pain?
     Alternative translations:
-      - N'aimes tu pas le pain?
+      - "{n'aime}" tu pas le pain?
 
 
-Mini-dictionary:
-  French:
-    - faire:
-      - eg
-      - teggeɣ
-      - itegg
-      - ttegg
-      - ntegg
+Mini-dictionnary
+  Kabyle:
+    - tḥemmleḍ: aimes
+    - lqahwa?: café
+    - tterreḍ: aimes
+    - ḥemmleɣ: j'aime
+    - irektiyen: pâtes
+    - terreɣ: aime
+    - tabyirt: bière
+    - ur: ne
+    
+    - ara: pas
+    - ccṛab: vin
+    - terreɣ: aime
+    - itett: mange
+    - tacriḥt: viande
+    - aksum: viande
+    - 
+    - tesseɣ: bois
+    - "{ur tḥemmleḍ}": "{n'aime}"
+    - 
+    - 
+    - ur: ne
+    - tett: mange
+    - iselman: poissons
+    - yiwet:une
+    - n: de
+    - tebyirt: bière
+    - ttxil-k: "{s'il vous plait}"
+    - ccṛab: vin
+    - tḥemmleḍ: aimes
+    - 
+    - tterreḍ: aimes
+
     
 
-  Kabyle:
-    - yiwet: une
-      
+French:
+    - aimes-tu: tḥemmleḍ
+    - 
+    - café: lqahwa
+    - j'aime: ḥemmleɣ
+    
+    - pâtes: irektiyen
+    - 
+    - bière: tabyirt
+    - je: nekk
+    - "{n'aime}": "{ur tḥemmleḍ}"
+    - pas: ara
+    - vin: ccṛab
+    - 
+    - ne: ne
+    - mange: 
+      - ečč
+      - itett
+      - ttett
+    - viande: aksum
+    - 
+    - "{s'il vous plait}": ttxil-k
+    - 
+    - 
+    - poissons: iselman
+    - une: yiwet
+    -
+    - 
+    - 
+    - vin: ccṛab
+    - 
+    
+    - pain: aɣrum
+    -
 
 
