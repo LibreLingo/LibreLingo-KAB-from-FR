@@ -4,4 +4,4 @@ Module:
 Skills:
   - phrases.yaml
   - adjectives.yaml
-  #- preferences.yaml
+  - preferences.yaml
