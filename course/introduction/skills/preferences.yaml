@@ -93,6 +93,30 @@ Phrases:
 
 
 Mini-dictionnary:
+
+  French:
+    - aimes: tḥemmleḍ
+    - Aimes: tḥemmleḍ
+    - café: lqahwa
+    - j'aime: ḥemmleɣ
+    - pâtes: irektiyen
+    - bière: tabyirt
+    - je: nekk
+    - n'aime: "{ur tḥemmleḍ}"
+    - pas: ara
+    - vin: ccṛab
+    - ne: ne
+    - mange: 
+      - ečč
+      - itett
+      - ttett
+    - viande: aksum 
+    - "{s'il vous plait}": ttxil-k    
+    - poisson: aslem
+    - une: yiwet
+    - vin: ccṛab
+    - pain: aɣrum
+
   Kabyle:
     - tḥemmleḍ: aimes
     - tḥemmleḍ: Aimes
@@ -120,29 +144,3 @@ Mini-dictionnary:
     - ccṛab: vin
     - tḥemmleḍ: aimes
     - tterreḍ: aimes
-
-    
-
-  French:
-    - aimes: tḥemmleḍ
-    - Aimes: tḥemmleḍ
-    - café: lqahwa
-    - j'aime: ḥemmleɣ
-    - pâtes: irektiyen
-    - bière: tabyirt
-    - je: nekk
-    - n'aime: "{ur tḥemmleḍ}"
-    - pas: ara
-    - vin: ccṛab
-    - ne: ne
-    - mange: 
-      - ečč
-      - itett
-      - ttett
-    - viande: aksum 
-    - "{s'il vous plait}": ttxil-k    
-    - poisson: aslem
-    - une: yiwet
-    - vin: ccṛab
-    - pain: aɣrum
-
