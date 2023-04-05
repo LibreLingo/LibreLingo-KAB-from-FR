@@ -75,6 +75,18 @@ Phrases:
   - Phrase: Yiwet n tebyirt, txil-k!
     Translation: Une bière "{s'il vous plait}"!
 
+  - Phrase: Tḥemmleḍ ccṛab?
+    Alternative versions:
+      - Tterreḍ ccṛab?
+    Translation: Aimes tu le vin?
+
+  - Phrase: ur tḥemmleḍ ara aɣrum?
+    Alternative versions:
+      - Ur tterreḍ ara aɣrum?
+    Translation: Tu n'aimes pas le pain?
+    Alternative translations:
+      - N'aimes tu pas le pain?
+
 
 Mini-dictionary:
   French:
@@ -85,7 +97,7 @@ Mini-dictionary:
     - j'aime: ḥemmleɣ
     - pâtes: irektiyen
     - bière: tabyirt
-    - n'aime: "{ur tḥemmleḍ}"
+    - n'aime: "{ur ḥemmleɣ}"
     - pas: ara
     - vin: ccṛab
     - ne: ne
@@ -100,6 +112,8 @@ Mini-dictionary:
     - "{s'il vous plait}": txil-k
     - une: yiwet
     - bière: tebyirt
+    - n'aimes: "{ur tḥemmleḍ}" 
+    - vin: ccṛab
 
   Kabyle:
     - tḥemmleḍ: aimes
@@ -121,5 +135,6 @@ Mini-dictionary:
     - txil-k: "{s'il vous plait}"
     - yiwet: une
     - tebyirt: bière
-    
+    - ccṛab: vin 
+    - tterreḍ: aimes
     
