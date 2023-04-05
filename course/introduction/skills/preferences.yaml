@@ -59,7 +59,7 @@ Phrases:
   - Phrase: Ur ḥemmleɣ ara ccṛab
     Alternative versions:
       - Ur terreɣ ara ccṛab 
-    Translation: Je "{n'aime}" pas le vin
+    Translation: Je n'aime pas le vin
 
   - Phrase: Ur itett ara tacriḥt
     Alternative versions:
@@ -85,9 +85,9 @@ Phrases:
   - Phrase: "{ur tḥemmleḍ}" ara aɣrum?
     Alternative versions:
       - Ur tterreḍ ara aɣrum?
-    Translation: Tu "{n'aime}" pas le pain?
+    Translation: Tu n'aime pas le pain?
     Alternative translations:
-      - "{n'aime}" tu pas le pain?
+      - n'aime tu pas le pain?
 
 
 Mini-dictionnary
@@ -109,7 +109,7 @@ Mini-dictionnary
     - aksum: viande
     - 
     - tesseɣ: bois
-    - "{ur tḥemmleḍ}": "{n'aime}"
+    - "{ur tḥemmleḍ}": n'aime
     - 
     - 
     - ur: ne
@@ -136,7 +136,7 @@ French:
     - 
     - bière: tabyirt
     - je: nekk
-    - "{n'aime}": "{ur tḥemmleḍ}"
+    - n'aime: "{ur tḥemmleḍ}"
     - pas: ara
     - vin: ccṛab
     - 
