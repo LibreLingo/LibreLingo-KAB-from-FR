@@ -11,9 +11,9 @@ Phrases:
       - Nekk lluẓeɣ    
     Translation: J’ai faim
 
-  - Phrase: Aql -i deg uɣerbaz 
+  - Phrase: Aql"{-}"i deg uɣerbaz 
     Alternative versions:
-      - Aql -i di llakul
+      - Aql"{-}"i di llakul
     Translation: Je suis à l’école
         
   - Phrase: Neffud tiqit n waman
@@ -24,7 +24,7 @@ Phrases:
     Alternative translations:
       - Nous avons soif d’eau
 
-  - Phrase: Maria d yimeddukal -is ɛyan 
+  - Phrase: Maria d yimeddukal"{-}"is ɛyan 
     Alternative versions:
       - Nutni ɛyan
     Translation: Maria et ses amis sont fatigués
@@ -38,15 +38,15 @@ Phrases:
     Alternative translations:
       - Ils sont exténués de marcher
 
-  - Phrase: Amcic -agi zeddig 
+  - Phrase: Amcic"{-}"agi zeddig 
     Alternative versions:
-      - Amcic -a zeddig
+      - Amcic"{-}"a zeddig
     Translation: Ce chat est propre
 
-  - Phrase: Aqjun -agi yeqlundem 
+  - Phrase: Aqjun"{-}"agi yeqlundem 
     Alternative versions:
       - Netta yeqlundem
-      - Aydi -a yeqlundem
+      - Aydi"{-}"a yeqlundem
     Translation: Ce chien est somnolent
     Alternative translations:
       - Ce chien somnole
@@ -114,7 +114,7 @@ Mini-dictionary:
     - et: d
     - ses: 
       - ines
-      - -is
+      - is
     - amis: 
       - imeddukal
       - yimeddukal
@@ -186,7 +186,8 @@ Mini-dictionary:
     - nekk: je
     - lluẓeɣ: faim
     - aql: être
-    - -i: 
+    - "{-}": annexion
+    - i: 
       - je
       - moi
     - deg: 
@@ -219,16 +220,18 @@ Mini-dictionary:
     - tikli: marche
     - si: de
     - amcic: chat
-    - -agi: 
+    - agi: 
       - ce
       - cet
       - cette
+      - ces
     - zeddig: propre
     - amcic: chat
-    - -a:
+    - a:
       - ce
       - cet
-      - cette      
+      - cette  
+      - ces
     - yeqlundem: somnole
     - netta: il 
     - aqjun: chien
