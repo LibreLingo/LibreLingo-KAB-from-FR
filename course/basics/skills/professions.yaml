@@ -83,7 +83,7 @@ Phrases:
     Translation: Les infirmières habitent ici
 
   - Phrase: Tacennayt tecna taɣect tahuskayt 
-    Translation: La chanteuse "{a chanté}" une belle chanson
+    Translation: La chanteuse a chanté une belle chanson
     
   - Phrase: Tacennayt d ucennay d inaẓuren  
     Translation: La chanteuse et le chanteur sont des artistes  
@@ -149,7 +149,7 @@ Mini-dictionary:
     - ici: dagi
     - chanteuse: tacennayt
     - a: avoir
-    - "{a chanté}": 
+    - chanté: 
       - yecna
       - tecna
     - chanson: taɣect 
