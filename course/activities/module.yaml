@@ -2,5 +2,5 @@ Module:
   Name: "Activities"
 
 Skills: 
-  #- ser_estar.yaml
+  - ser_estar.yaml
   - continuous.yaml
