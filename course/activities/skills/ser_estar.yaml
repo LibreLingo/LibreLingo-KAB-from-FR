@@ -24,7 +24,7 @@ Phrases:
     Alternative translations:
       - Nous avons soif d’eau
 
-  - Phrase: Maria d imeddukal-is ɛyan 
+  - Phrase: Maria d yimeddukal -is ɛyan 
     Alternative versions:
       - Nutni ɛyan
     Translation: Maria et ses amis sont fatigués
@@ -40,13 +40,13 @@ Phrases:
 
   - Phrase: Amcic-agi zeddig 
     Alternative versions:
-      - Amcic-a zeddig
+      - Amcic -a zeddig
     Translation: Ce chat est propre
 
-  - Phrase: Aqjun-agi yeqlundem 
+  - Phrase: Aqjun -agi yeqlundem 
     Alternative versions:
       - Netta yeqlundem
-      - Aydi-a yeqlundem
+      - Aydi -a yeqlundem
     Translation: Ce chien est somnolent
     Alternative translations:
       - Ce chien somnole
@@ -112,8 +112,12 @@ Mini-dictionary:
     - d’eau: waman
     - Maria: Maria
     - et: d
-    - ses: ines
-    - amis: imeddukal
+    - ses: 
+      - ines
+      - -is
+    - amis: 
+      - imeddukal
+      - yimeddukal
     - sont: llan
     - fatigués: ɛyan
     - ils: nutni
@@ -181,7 +185,10 @@ Mini-dictionary:
     - lluẓeɣ: faim
     - nekk: je
     - lluẓeɣ: faim
-    - aql-i: suis
+    - aql: être
+    - -i: 
+      - je
+      - moi
     - deg: 
       - de 
       - à
@@ -201,7 +208,8 @@ Mini-dictionary:
     - nekkenti: nous
     - Maria: Maria
     - d: et 
-    - imeddukal-is: amis
+    - yimeddukal: amis
+    - -is: ses
     - ɛyan: fatigués
     - nutni: ils
     - Omar: Omar
@@ -210,13 +218,21 @@ Mini-dictionary:
     - seg: de
     - tikli: marche
     - si: de
-    - amcic-agi: “{ce chat}”
+    - amcic: chat
+    - -agi: 
+      - ce
+      - cet
+      - cette
     - zeddig: propre
-    - amcic-a: “{ce chat}”
-    - aqjun-agi: “{ce chien}”
+    - amcic: chat
+    - -a:
+      - ce
+      - cet
+      - cette      
     - yeqlundem: somnole
     - netta: il 
-    - aydi-a: “{ce chien}”
+    - aqjun: chien
+    - aydi: chien
     - arrac: garçons
     - llexsen: mouillés
     - aɣyul: âne
