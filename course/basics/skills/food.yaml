@@ -142,8 +142,8 @@ Mini-dictionary:
     - txil-m: "{s'il vous plaît}"
     - aman: 
       - eau
-      - "{l'eau}
-      - "{de l'eau}"
+      - "{l'eau}"
+      #- "{de l'eau}"
     - tabyirt: 
       - bière
       - "{la bière}"
