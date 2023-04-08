@@ -1,161 +1,154 @@
 Skill:
-  Name: Ser/estar
+  Name: État
   Id: 16
 
 New words: []
 
 Phrases:
-  - Phrase: Yo soy un estudiante
-    Alternative versions:
-      - Soy estudiante
-      - Soy un estudiante
-      - Soy una estudiante
-      - Yo soy una estudiante
-    Translation: I am a student
-    Alternative translations:
-      - I'm a student
 
-  - Phrase: Yo estoy en la escuela
+  - Phrase: Lluẓeɣ 
     Alternative versions:
-      - Estoy en la escuela
-    Translation: I am at school
-    Alternative translations:
-      - I am in school
+      - Nekk lluẓeɣ    
+    Translation: J’ai faim
 
-  - Phrase: Ella es enfermera
-    Alternative versions:
-      - Es enfermera
-    Translation: She is a nurse
-    Alternative translations:
-      - She's a nurse
-
-  - Phrase: Ella está enferma
-    Alternative versions:
-      - Está enferma
-    Translation: She's ill
-    Alternative translations:
-      - She is ill
-      - She's sick
-      - She is sick
-
-  - Phrase: Nosotras estamos en la ciudad
-    Alternative versions:
-      - Estamos en la ciudad
-      - Nosotros estamos en la ciudad
-    Translation: We are in the city
-    Alternative translations:
-      - We're in the city
-
-  - Phrase: El gato está limpio
-    Alternative versions:
-      - La gata está limpia
-    Translation: The cat is clean
-    Alternative translations:
-      - The cat's clean
-
-  - Phrase: Ellos están listos
-    Alternative versions:
-      - Están listos
-    Translation: They are ready
-    Alternative translations:
-      - They're ready
-
-  - Phrase: Ellos son listos
-    Alternative versions:
-      - Son listos
-    Translation: They are smart
-    Alternative translations:
-      - They're smart
-
-  - Phrase: ¿Sois médicas?
-    Alternative versions:
-      - ¿Vosotras sois médicas?
-      - ¿Sois médicos?
-      - ¿Vosotros sois médicos?
-    Translation: Are you doctors?
-
-  - Phrase: ¿Estáis contentas?
-    Alternative versions:
-      - ¿Vosotras estáis contentas?
-      - ¿Vosotras estáis felices?
-      - ¿Vosotras estáis satisfechas?
-      - ¿Vosotras estáis alegres?
-      - ¿Estáis felices?
-      - ¿Estáis satisfechas?
-      - ¿Estáis alegres?
-      - ¿Estáis contentos?
-      - ¿Vosotros estáis contentos?
-      - ¿Vosotros estáis felices?
-      - ¿Vosotros estáis satisfechos?
-      - ¿Vosotros estáis alegres?
-      - ¿Estáis satisfechos?
-    Translation: Are you happy?
-    Alternative translations:
-      - Are you content?
-      - Are you satisfied?
 
 Mini-dictionary:
   French:
-    - student: estudiante
-    - at: en
-    - in: en
-    - city: ciudad
-    - school: escuela
-    - nurse:
-      - enfermero
-      - enfermera
-    - ill:
-      - enfermo
-      - enferma
-    - clean:
-      - limpio
-      - limpia
-      - limpiar
-    - ready:
-      - listo
-      - lista
-      - listos
-      - listas
-      - preparar
-    - smart:
-      - listo
-      - lista
-      - listos
-      - listas
-    - happy:
-      - contento
-      - contenta
-      - contentos
-      - contentas
+    - j’ai: sɛiɣ
+    - faim: laẓ
+    - je: nekk
+    - suis: aql-i
+    - à:
+      - di
+      - deg
+    - l’école:
+      - aɣerbaz
+      - llakul
+    - nous: 
+      - nekni
+      - nekkenti
+    - avons: nesɛa
+    - soif: fad
+    - d’eau: waman
+    - Maria: Maria
+    - et: d
+    - ses: ines
+    - amis: imeddukal
+    - sont: llan
+    - fatigués: ɛyan
+    - ils: nutni
+    - Omar: Omar
+    - Idir: Idir
+    - exténués: serden
+    - de: 
+      - n
+      - seg
+      - si
+    - marcher:
+      - ddu
+      - lḥu
+    - ce: wagi
+    - chat: amcic
+    - est: yella
+    - propre: weddig
+    - chien: aqjun
+    - somnolent: 
+      - yeqlundem
+      - qlundmen
+    - somnole: 
+      - yeqlundem
+      - teqlundem
+    - les: déterminent
+    - garçons: arrac
+    - mouillés: llexsen
+    - l’âne: aɣyul
+    - s’est: être
+    - roulé: yeglalez
+    - dans: 
+      - deg
+      - di
+    - la: déterminent
+    - poussière: 
+      - aɣebbar
+      - uɣebbar
+    - l’ours: lmerd 
+    - souillé: yumes
+    - suie: 
+      - timulin
+      - tibuxin
+    - il: netta
+    - sali: yumes
+    - tremble: 
+      - yettergigi
+      - tettergigi
+    - froid: 
+      - asemmiḍ
+      - usemmiḍ
+    - frissonne: 
+      - yetcirriw
+      - tetcirriw
+    - fièvre: tawla
+    - elle: nettat
+    - femmes: tulawin
+    - heureuses: nnecrahent
+    - la: déterminent
+    - fille: taqcict
+    - triste: 
+      - yenneɣni
+      - tenneɣni
 
   Kabyle:
-    - estudiante: student
-    - estoy:
-      - I am
-      - I'm
-    - en:
-      - in
-      - at
-      - "on"
-    - escuela: school
-    - enfermera: nurse
-    - está: is
-    - enferma:
-      - ill
-      - sick
-    - estamos:
-      - we are
-      - we're
-    - ciudad: city
-    - limpio: clean
-    - están:
-      - they are
-      - they're
-      - you are
-      - you're
-    - listos: ready
-    - estáis:
-      - you are
-      - you're
-    - contentas: happy
-    - médicas: doctors
+    - lluẓeɣ: faim
+    - nekk: je
+    - lluẓeɣ: faim
+    - aql-i: suis
+    - deg: 
+      - de 
+      - à
+      - au
+    - uɣerbaz: école
+    - di: 
+      - de 
+      - à
+      - au
+    - llakul: école
+    - neffud: soif
+    - tiqit: goutte 
+    - n: de
+    - waman: eau
+    - nekni: je
+    - neffud: soif
+    - nekkenti: nous
+    - Maria: Maria
+    - d: et 
+    - imeddukal-is: amis
+    - ɛyan: fatigués
+    - nutni: ils
+    - Omar: Omar
+    - Idir: Idir
+    - serden: exténués
+    - seg: de
+    - tikli: marche
+    - si: de
+    - amcic-agi: “{ce chat}”
+    - zeddig: propre
+    - amcic-a: “{ce chat}”
+    - aqjun-agi: “{ce chien}”
+    - yeqlundem: somnole
+    - netta: il 
+    - aydi-a: “{ce chien}”
+    - arrac: garçons
+    - llexsen: mouillés
+    - aɣyul: âne
+    - yeglalez: “{s’est roulé}”
+    - uɣebbar: poussière
+    - lmerd: ours
+    - yumes: 
+      - souillé
+      - sali
+    - tibuxin: suie
+    - ttergigiɣ: tremble
+    - usemmiḍ: froid
+    - tetcirriw: frisonne
+    - tawla: fièvre
+
