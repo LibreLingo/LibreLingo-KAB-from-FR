@@ -81,7 +81,7 @@ Phrases:
   - Phrase: Nutni nehhren aɣyul 
     Alternative versions:
       - Nehhren aɣyul
-    Translation: Ils conduisent "{l’âne}" 
+    Translation: Ils conduisent l’âne 
 
 
 
@@ -151,7 +151,7 @@ Mini-dictionary:
     - conduisent:
       - nehhren
       - nehhrent
-    - "{l’âne}": aɣyul
+    - l’âne: aɣyul
 
   Kabyle:
     - nekni: nous
@@ -190,5 +190,5 @@ Mini-dictionary:
     - zzuɣurent: trainent
     - taqejjirt: patte
     - nehhren: conduisent
-    - aɣyul: "{l’âne}"
+    - aɣyul: l’âne
   
