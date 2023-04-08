@@ -111,7 +111,7 @@ Phrases:
       - Ruḥ deg talwit!
     Translation: Bon voyage!
 
-  - Phrase: “{Ad nruḥ}” ɣer teftist!
+  - Phrase: Ad nruḥ ɣer teftist!
     Translation: Nous irons à la plage!
 
   - Phrase: Ilel neɣ adrar? 
@@ -134,7 +134,6 @@ Mini-dictionary:
     - voyage: 
       - inig
       - yinig
-    - "{voyage!}": inig
     - nous: 
       - nekni
       - nekkenti
@@ -178,7 +177,8 @@ Mini-dictionary:
     - ruḥ: vas
     - deg: en
     - talwit: paix
-    - “{Ad nruḥ}”: irons
+    - ad: particule 
+    - nruḥ: partons
     - ɣer: à
     - teftist: plage
     - ilel: mer
