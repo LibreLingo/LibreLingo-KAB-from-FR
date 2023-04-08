@@ -86,7 +86,7 @@ Phrases:
     Translation: Yanis mange du pain
 
   - Phrase: Tetteɣ irektiyen
-    Translation: Je mange "{des pâtes}"
+    Translation: Je mange des pâtes
 
 Mini-dictionary:
   French:
@@ -110,9 +110,6 @@ Mini-dictionary:
     - la: déterminant
     - les: déterminant
     - bière: tabyirt
-    - "{de la bière}": tabyirt
-    - bière: tabyirt
-    - "{les amis}": imeddukal
     - amis: imeddukal
     - je: 
       - nekk
@@ -121,7 +118,7 @@ Mini-dictionary:
       - ečč
       - itett
       - tetteɣ
-    - "{des pâtes}": irektiyen
+    - pâtes: irektiyen
     - Yanis: Yanis (nom)
     - du: déterminant 
     - pain: aɣrum     
