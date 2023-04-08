@@ -66,7 +66,7 @@ Phrases:
   - Phrase: Agmar itess aman
     Alternative versions:
       - Aɛudiw itess aman
-    Translation: Le cheval boit de "{l’eau}"
+    Translation: Le cheval boit de l’eau
 
 
 Mini-dictionary:
@@ -122,7 +122,7 @@ Mini-dictionary:
     - boit: 
       - itess
       - ttess
-    - "{l’eau}": aman   
+    - l’eau: aman   
     - café: lqahwa
     
   Kabyle:
@@ -175,5 +175,5 @@ Mini-dictionary:
     - lqahwa: café
     - ttess: boit
     - itess: boit   
-    - aman: "{l’eau}"
+    - aman: l’eau
     
