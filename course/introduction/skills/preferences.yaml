@@ -97,7 +97,9 @@ Mini-dictionary:
     - j'aime: ḥemmleɣ
     - pâtes: irektiyen
     - bière: tabyirt
-    - n'aime: "{ur ḥemmleɣ}"
+    - n'aime: 
+      - "{ur ḥemmleɣ}"
+      - "{ur terreɣ}"
     - pas: ara
     - vin: ccṛab
     - ne: ne
@@ -112,7 +114,9 @@ Mini-dictionary:
     - "{s'il vous plait}": txil-k
     - une: yiwet
     - bière: tebyirt
-    - n'aimes: "{ur tḥemmleḍ}" 
+    - n'aimes: 
+      - "{ur tḥemmleḍ}" 
+      - "{ur tterreḍ}"
     - vin: ccṛab
 
   Kabyle:
