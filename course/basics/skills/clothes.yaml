@@ -107,10 +107,10 @@ New words:
       - socks3
 
 Phrases:
-  - Phrase: Yeɛjeb"{-}"iyi!
+  - Phrase: Yeɛjeb - iyi!
     Translation: Ça me plaît!
 
-  - Phrase: Acḥal azal"{-}"is?
+  - Phrase: Acḥal azal - is?
     Translation: Combien ça coûte?
 
   - Phrase: Tanemmirt
@@ -140,8 +140,6 @@ Mini-dictionary:
     - ça:
       - wagi
       - tagi
-      - wigi
-      - tigi
     - coûte: 
       - azal
     - la: déterminent
@@ -172,7 +170,7 @@ Mini-dictionary:
       - souliers
     - tecbeḥ: belle
     - yeɛjeb: plaît
-    - "{-}": annexion
+    - -: annexion
     - iyi: me
     - acḥal: combien
     - azal: coût
