@@ -64,20 +64,20 @@ New words:
       - couple3
 
 Phrases:
-  - Phrase: S tezmert tanalt"{-}"ik
+  - Phrase: S tezmert tanalt - ik
     Translation: Bon appétit
 
   - Phrase: Txil-k
-    Translation: "{S'il vous plaît}"
+    Translation: S'il vous plaît
 
   - Phrase: Aɣrum, txil-k
-    Translation: Du pain, "{s'il vous plaît}"
+    Translation: Du pain, s'il vous plaît
     
   - Phrase: Aman, txil-m
-    Translation: De "{l'eau}", "{s'il vous plaît}"
+    Translation: De l'eau, s'il vous plaît
 
   - Phrase: Cecilia ttess aman
-    Translation: Cecilia boit de "{l'eau}"
+    Translation: Cecilia boit de l'eau
 
   - Phrase: Imeddukal tessen tabyirt
     Translation: Les amis boivent de la bière
@@ -97,9 +97,13 @@ Mini-dictionary:
     - "{s'il vous plaît}": 
       - txil-k
       - txil-m
-    - vous: kunwi
+    - s'il: netta
+    - vous: 
+      - vous
+      - awen
+      - akent
     - plaît: yeɛjeb
-    - "{l'eau}": aman
+    - l'eau: aman
     - de: déterminant
     - Cecilia: Cecilia (name)
     - boit:
@@ -122,7 +126,6 @@ Mini-dictionary:
     - Yanis: Yanis (nom)
     - du: déterminant 
     - pain: aɣrum     
-    - plaît: yeɛjeb
     
     
 
@@ -130,7 +133,7 @@ Mini-dictionary:
     - s: avec
     - tezmert: santé
     - tanalt: repas
-    - "{-}": annexion
+    - -: annexion
     - ik: 
       - ton 
       - ta 
