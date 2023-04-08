@@ -143,7 +143,7 @@ Mini-dictionary:
     - aman: 
       - eau
       - "{l'eau}"
-      #- "{de l'eau}"
+      - "{de l'eau}"
     - tabyirt: 
       - bière
       - "{la bière}"
