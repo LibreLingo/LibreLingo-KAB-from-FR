@@ -107,10 +107,10 @@ New words:
       - socks3
 
 Phrases:
-  - Phrase: Yeɛjeb-iyi!
+  - Phrase: Yeɛjeb"{-}"iyi!
     Translation: Ça me plaît!
 
-  - Phrase: Acḥal azal-is?
+  - Phrase: Acḥal azal"{-}"is?
     Translation: Combien ça coûte?
 
   - Phrase: Tanemmirt
@@ -144,24 +144,23 @@ Mini-dictionary:
       - tigi
     - coûte: 
       - azal
-      - azal-is
-    - la: N/A
+    - la: déterminent
     - robe: taqenduṛt
-    - est: être_sgl
+    - est: être
     - belle:
       - tecbeḥ
       - yecbeḥ
       - tgerrez
       - igerrez
-    - les: N/A
+    - les: déterminent
     - souliers: isebbaḍen
     - chaussures: isebbaḍen
-    - sont: être_pl
+    - sont: être
     - grands: meqrit
     - grand: 
       - meqqer
       - meqret
-    - le: N/A    
+    - le: déterminent 
     - petite: meẓẓiyet
     - une: yiwet
     - chaussette: aqaciṛ
@@ -172,9 +171,15 @@ Mini-dictionary:
       - chaussures
       - souliers
     - tecbeḥ: belle
-    - yeɛjeb-iyi: me_plaît
+    - yeɛjeb: plaît
+    - "{-}": annexion
+    - iyi: me
     - acḥal: combien
-    - azal-is: ça_coûte
+    - azal: coût
+    - is: 
+      - son
+      - sa
+      - ses
     - netta: il
     - meqrit: grands
     - meqqer: grand
