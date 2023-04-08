@@ -64,7 +64,7 @@ New words:
       - couple3
 
 Phrases:
-  - Phrase: S tezmert tanalt-ik
+  - Phrase: S tezmert tanalt -ik
     Translation: Bon appétit
 
   - Phrase: Txil-k
@@ -129,7 +129,11 @@ Mini-dictionary:
   Kabyle:
     - s: avec
     - tezmert: santé
-    - tanalt-ik: "{ton repas}"
+    - tanalt: repas
+    - -ik: 
+      - ton 
+      - ta 
+      - tes
     - txil-k: "{s'il vous plaît}" 
     - txil-m: "{s'il vous plaît}"
     - aman: 
