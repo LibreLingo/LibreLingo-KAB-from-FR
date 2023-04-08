@@ -11,10 +11,10 @@ Phrases:
   - Phrase: Azul, nekk d Cecilia.
     Translation: Bonjour, je suis Cecilia.
     
-  - Phrase: Isem-ik?
+  - Phrase: Isem"{-}"ik?
     Translation: Quel est ton nom?
     
-  - Phrase: Isem-iw Ali
+  - Phrase: Isem"{-}"iw Ali
     Translation: Mon nom est Ali
     Alternative translations:
       - On "{m'appelle}" Ali
@@ -25,12 +25,12 @@ Phrases:
   - Phrase: Dacu akka?
     Translation: Quoi de neuf?
 
-  - Phrase: Ferḥeɣ imi k-sneɣ
+  - Phrase: Ferḥeɣ imi k"{-}"sneɣ
     Translation: Heureux de te connaitre
     Alternative translations:
       - Heureuse de te connaitre
 
-  - Phrase: Ferḥeɣ imi kem-sneɣ
+  - Phrase: Ferḥeɣ imi kem"{-}"sneɣ
     Translation: Heureux de te connaitre
     Alternative translations:
       - Heureuse de te connaitre
@@ -75,8 +75,16 @@ Mini-dictionary:
     - azul: bonjour
     - d: déterminant
     - Cecilia: Cecilia (name)
-    - isem-ik: nom
-    - isem-iw: nom
+    - "{-}": annexion
+    - isem: nom
+    - ik: 
+      - toi
+      - ton
+    - iw: 
+      - moi
+      - mon
+    - k: toi
+    - kem: toi
     - Ali: Ali (name)
     - amek: comment
     - tettiliḍ: vas
@@ -88,9 +96,10 @@ Mini-dictionary:
       - heureux
       - heureuse
     - imi: parceque
-    - k-sneɣ: connais
-    - kem-sneɣ: connais
-    - ar: au
+    - sneɣ: connais
+    - ar: 
+      - au
+      - à
     - tufat: revoir 
     - ass: journée
     - ameggaz: bon
