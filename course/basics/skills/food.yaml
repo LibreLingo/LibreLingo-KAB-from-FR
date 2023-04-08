@@ -64,7 +64,7 @@ New words:
       - couple3
 
 Phrases:
-  - Phrase: S tezmert tanalt -ik
+  - Phrase: S tezmert tanalt"{-}"ik
     Translation: Bon appétit
 
   - Phrase: Txil-k
@@ -130,7 +130,8 @@ Mini-dictionary:
     - s: avec
     - tezmert: santé
     - tanalt: repas
-    - -ik: 
+    - "{-}": tiret
+    - ik: 
       - ton 
       - ta 
       - tes
