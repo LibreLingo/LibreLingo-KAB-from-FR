@@ -209,7 +209,7 @@ Mini-dictionary:
     - nekkenti: nous
     - Maria: Maria
     - d: et 
-    - yimeddukal: amis
+    - yimeddukal-is: ses amis
     - is: ses
     - ɛyan: fatigués
     - nutni: ils
@@ -219,7 +219,8 @@ Mini-dictionary:
     - seg: de
     - tikli: marche
     - si: de
-    - amcic: chat
+    - amcic-agi: ce chat
+    - amcic-a: ce chat
     - agi: 
       - ce
       - cet
@@ -234,8 +235,10 @@ Mini-dictionary:
       - ces
     - yeqlundem: somnole
     - netta: il 
-    - aqjun: chien
-    - aydi: chien
+    - aqjun-agi: ce chien
+    - aqjun-a: ce chien
+    - aydi-agi: ce chien
+    - aydi-a: ce chien
     - arrac: garçons
     - llexsen: mouillés
     - aɣyul: âne
