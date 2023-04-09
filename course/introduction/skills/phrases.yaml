@@ -11,10 +11,10 @@ Phrases:
   - Phrase: Azul, nekk d Cecilia.
     Translation: Bonjour, je suis Cecilia.
     
-  - Phrase: Isem - ik?
+  - Phrase: Isem-ik?
     Translation: Quel est ton nom?
     
-  - Phrase: Isem - iw Ali
+  - Phrase: Isem-iw Ali
     Translation: Mon nom est Ali
     Alternative translations:
       - On "{m'appelle}" Ali
@@ -30,7 +30,7 @@ Phrases:
     Alternative translations:
       - Heureuse de te connaitre
 
-  - Phrase: Ferḥeɣ imi kem - sneɣ
+  - Phrase: Ferḥeɣ imi kem-sneɣ
     Translation: Heureux de te connaitre
     Alternative translations:
       - Heureuse de te connaitre
@@ -76,7 +76,8 @@ Mini-dictionary:
     - d: déterminant
     - Cecilia: Cecilia (name)
     - -: annexion
-    - isem: nom
+    - isem-iw: "{mon nom}"
+    - isem-ik: "{ton nom}"
     - ik: 
       - toi
       - ton
@@ -97,6 +98,7 @@ Mini-dictionary:
       - heureuse
     - imi: parceque
     - sneɣ: connais
+    - kem-sneɣ: "{te connais}"
     - ar: 
       - au
       - à
