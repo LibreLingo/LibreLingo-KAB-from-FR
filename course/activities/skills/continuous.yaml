@@ -13,9 +13,9 @@ Phrases:
     Alternative translations: 
        - Nous cuisinons le souper
 
-  - Phrase: Nekk seɣtayeɣ alaɣmu"{-}"agi
+  - Phrase: Nekk seɣtayeɣ alaɣmu - agi
     Alternative:
-      - Seɣtayeɣ alaɣmu"{-}"a      
+      - Seɣtayeɣ alaɣmu - a      
     Translation: Je corrige cet exercice
 
   - Phrase: Nutenti tturarent tuffra
@@ -166,7 +166,7 @@ Mini-dictionary:
     - seɣtayeɣ:
       - corrige
     - alaɣmu: exercice
-    - "{-}": annexion
+    - -: annexion
     - agi: 
       - cet
       - cette
@@ -179,7 +179,7 @@ Mini-dictionary:
       - ces   
     - nutenti: elles
     - tturarent: jouent
-    - tuffra: “{cache cache}” 
+    - tuffra: cache cache 
     - la: entrain
     - tesmuzguteḍ: écoutes
     - kečč: tu
