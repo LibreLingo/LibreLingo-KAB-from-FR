@@ -19,6 +19,7 @@ Dda Lmulud At Mammer yenna-d: "Win iran Taqbaylit yaru-tt!"
 
 La plateforme LibreLingon est développée par Daniel Kantor et al.
 Le cours de Kabyle est adapté et monté par Bouaziz Ait Driss et al.
+
 Un grand merci à tous les collaborateurs et collaboratrices.
 Pour tous commentaires veuillez contacter l'équipe de développement à : lbrlingo.2023@gmail.com 
 
