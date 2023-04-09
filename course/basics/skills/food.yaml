@@ -74,7 +74,7 @@ Phrases:
     Translation: Du pain, s'il vous plaît
     
   - Phrase: Aman, txil-m
-    Translation: de l'eau, s'il vous plaît
+    Translation: De l'eau, s'il vous plaît
 
   - Phrase: Cecilia ttess aman
     Translation: Cecilia boit de l'eau
@@ -140,7 +140,7 @@ Mini-dictionary:
       - tes
     - txil-k: "{s'il vous plaît}" 
     - txil-m: "{s'il vous plaît}"
-    - aman: eau
+    - aman: "{l'eau}"
     - tabyirt: 
       - bière
       - "{la bière}"
