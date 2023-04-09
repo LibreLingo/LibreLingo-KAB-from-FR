@@ -99,7 +99,7 @@ Mini-dictionary:
     - bière: tabyirt
     - n'aime: 
       - ur ḥemmleɣ
-      - "{ur terreɣ}"
+      - ur terreɣ
     - pas: ara
     - vin: ccṛab
     - ne: ne
@@ -117,8 +117,8 @@ Mini-dictionary:
     - une: yiwet
     - bière: tebyirt
     - n'aimes: 
-      - "{ur tḥemmleḍ}" 
-      - "{ur tterreḍ}"
+      - ur tḥemmleḍ 
+      - ur tterreḍ
     - vin: ccṛab
 
   Kabyle:
@@ -138,7 +138,7 @@ Mini-dictionary:
     - aksum: viande
     - ttett: mange
     - aslem: poisson
-    - txil-k: "{s'il vous plait}"
+    - txil-k: s'il vous plait
     - yiwet: une
     - tebyirt: bière
     - ccṛab: vin 
