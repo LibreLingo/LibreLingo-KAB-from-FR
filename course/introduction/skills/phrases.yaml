@@ -17,7 +17,7 @@ Phrases:
   - Phrase: Isem-iw Ali
     Translation: Mon nom est Ali
     Alternative translations:
-      - On "{m'appelle}" Ali
+      - On m'appelle Ali
       
   - Phrase: Amek tettiliḍ?
     Translation: Comment vas-tu?
@@ -54,7 +54,7 @@ Mini-dictionary:
     - mon: inu
     - Ali: Ali (name)
     - on: déterminant
-    - "{m'appelle}": ssawalen-iyi
+    - m'appelle: ssawalen-iyi
     - comment: amek
     - vas-tu: tettiliḍ
     - dacu: quoi
