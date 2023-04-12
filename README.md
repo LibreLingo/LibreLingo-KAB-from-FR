@@ -17,7 +17,9 @@ une opportunité de s'initier à l'écriture du Kabyle en utilisant la transcrip
 
 Dda Lmulud At Mammer yenna-d: "Win iran Taqbaylit yaru-tt!"
 
-La plateforme LibreLingon est développée par Daniel Kantor et al.
+La plateforme LibreLingo est développée par Daniel Kantor et al.
+Le lien au repository original est : https://github.com/LibreLingo/LibreLingo
+La documentation pertinente pour contribuer à LibreLingo se trouve ici : https://librelingo.app/docs/courses/index.html
 Le cours de Kabyle est adapté et monté par Bouaziz Ait Driss et al.
 
 Un grand merci à tous les collaborateurs et collaboratrices.
