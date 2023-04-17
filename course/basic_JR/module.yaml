@@ -2,7 +2,7 @@ Module:
   Name: "Basics_JR"
 
 Skills:
-  - alphabet_JR
+  - alphabet_JR.yaml
   #- animals_JR.yaml
   #- food_JR.yaml
   #- clothes_JR.yaml
@@ -10,5 +10,5 @@ Skills:
   #- verbs_JR.yaml
   #- plurals_JR.yaml
   #- general_JR.yaml
-  #- count_JR
+  #- count_JR.yaml
   
