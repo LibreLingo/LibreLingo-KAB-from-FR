@@ -2,8 +2,8 @@ Module:
   Name: "Activities"
 
 Skills: 
+  - test_jr.yaml
   - ser_estar.yaml
   - continuous.yaml
-  - test_jr.yaml
+  
  
-
