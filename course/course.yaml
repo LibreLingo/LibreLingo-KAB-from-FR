@@ -41,6 +41,7 @@ Modules:
   - activities/
   
 
+
 Settings:
   Audio:
     Enabled: False
