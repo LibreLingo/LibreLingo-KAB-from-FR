@@ -36,9 +36,9 @@ Course:
 
 Modules:
   - basic_jr/
-  #- basics/
+  - basics/
   - introduction/
-  - activities/
+  #- activities/
   
 
 
