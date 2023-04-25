@@ -35,8 +35,8 @@ Course:
     - "Ɛ"
 
 Modules:
-  #- basic_jr/
-  - basics/
+  - basic_jr/
+  #- basics/
   - introduction/
   - activities/
   
