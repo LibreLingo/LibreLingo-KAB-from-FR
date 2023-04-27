@@ -1,8 +1,8 @@
 Module:
-  Name: "Basics_JR"
+  Name: "Base_Juniors"
 
 Skills:
-  - alphabet_jr.yaml
+  - nombres_jr.yaml
   #- animals_JR.yaml
   #- food_JR.yaml
   #- clothes_JR.yaml

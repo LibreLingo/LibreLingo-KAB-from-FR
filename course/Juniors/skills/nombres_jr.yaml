@@ -1,0 +1,130 @@
+Skill:
+  Name: Nombres
+  Id: d6f5e9c1-3566-4ed6-858f-51bddb97870e
+  Thumbnails:
+    - boys3
+    - bird1
+    - dog1
+
+    
+New words:
+  - Word: yiwen    
+    Translation: un
+    Images:
+      - one1
+      - one2
+      - one3
+
+  - Word: sin
+    Translation: deux
+    Images:
+      - two1
+      - two2
+      - two3
+
+  - Word: kraḍ
+    Synonyms: tlata
+    Translation: trois
+    Images:
+      - three1
+      - three2
+      - three3
+
+  - Word: kuẓ
+    Synonyms: rebɛa
+    Translation: quatre    
+    Images:
+      - four1
+      - four2
+      - four3
+
+  - Word: semmus
+    Synonyms: xemsa
+    Translation: cinq    
+    Images:
+      - five1
+      - five2
+      - five3
+
+  - Word: sḍis
+    Synonyms: setta
+    Translation: six
+    Images:
+      - six1
+      - six2
+      - six3
+
+  - Word: sa
+    Synonyms: sebɛa
+    Translation: sept    
+    Images:
+      - seven1
+      - seven2
+      - seven3
+
+  - Word: tam
+    Synonyms: tmanya
+    Translation: un ours
+    Images:
+      - eight1
+      - eight2
+      - eight3
+
+  - Word: tẓa
+    Synonyms: tesɛa
+    Translation: neuf
+    Images:
+      - nine1
+      - nine2
+      - nine3
+
+  - Word: ulac
+    Translation: zéro
+    Images:
+      - zero1
+      - zero2
+      - zero3
+
+  - Word: mraw
+    Synonyms: ɛecra
+    Translation: dix
+    Images:
+      - ten1
+      - ten2
+      - ten3
+
+
+Phrases:
+  - Phrase: Mraw d yiwen
+    Alternative versions:
+      - Ḥdac
+    Translation: Onze
+
+  - Phrase: Mraw d sin
+    Alternative versions:
+      - Tnac
+    Translation: Douze
+
+  - Phrase: Snat tmerwin
+    Alternative versions: ɛecrin 
+    Translation: vingt
+
+Mini-dictionary:
+  Kabyle:
+    - yiwen: un 
+    - sin: deux
+    - d: et
+    - mraw: dix 
+    - ḥdac: onze
+    - tnac: douze
+    - snat: deux
+    - tmerwin: vingt
+    - ɛecrin: vingt
+
+  French:
+    - un: yiwen
+    - dix: mraw
+    - onze: mraw d yizen
+    - douze: mraw d sin
+    - vingt: snat tmerwin
+    
