@@ -12,8 +12,8 @@ apprentissage progressif.
 
 Il est hautement suggéré de reprendre les compétences plusieures fois jusqu'à bien assimiler les notions enseignées.
 
-Le cours est aussi destiné aux locuteurs de langue kabyle qui n'ont pas eu l'opportunité de pratiquer l'écrit de la langue. Ce cours est 
-une opportunité de s'initier à l'écriture du Kabyle en utilisant la transcription en caractère latins.
+Le cours est aussi destiné aux locuteurs de langue kabyle qui n'ont pas eu l'opportunité de pratiquer l'écriture de la langue. Ce cours est 
+une opportunité de s'initier à l'écriture du Kabyle en utilisant la transcription en caractères latins.
 
 Dda Lmulud At Mammer yenna-d: "Win iran Taqbaylit yaru-tt!"
 
