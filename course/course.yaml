@@ -35,7 +35,7 @@ Course:
     - "Ɛ"
 
 Modules:
-  - juniors/
+ # - juniors/
   - basics/
   - introduction/
   - activities/
